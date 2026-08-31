@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 2593" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="2593" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="2593" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 1296.5)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="648.25" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1296.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1944.75" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-730.0" y="-46.0" width="1460" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">CHEATSHEET FOR JOHN THE RIPPER- PASSWORD CRACKING TOOL</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="74" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="682.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="355.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Retrieves Kerberos tickets from the kirbi file and parses them to JtR format</text>
+      
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">kirbi2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Python library for manipulating 1Password&apos;s .agilekeychain</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">files</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes known_hosts files in a format suitable for use with</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JtR</text><circle cx="21" cy="128" r="2.6" fill="#f59e0b"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">1password2john.py</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#10b981"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">known_hosts2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">TO Generate hashes from 7z files.</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves AS-REQ and TGS-REP hashes</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">7z2john.pl</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">krb2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extract the DPAPI Master Key hash for a user</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves the KWALLET hash</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DPAPImk2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">kwallet2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts ADXCRYPT password hashes from ADXCSOUF.DAT and SHA-1</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script converts LastPass input into a format suitable</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">for JtR</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hashes from ADXEPW0F.DAT files</text><circle cx="21" cy="132" r="2.6" fill="#8b5cf6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">lastpass2john.py</text>
+    </g>
+    </g><g transform="translate(0, 92)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="213" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">adxcsouf2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The utility processes OpenOffice / LibreOffice files into a</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JtR utility to convert native Adobe AEM hashes to an existing</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JtR hash</text><circle cx="21" cy="128" r="2.6" fill="#ec4899"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">suitable for JtR</text><circle cx="21" cy="149" r="2.6" fill="#ec4899"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format</text><circle cx="21" cy="170" r="2.6" fill="#ec4899"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">libreoffice2john.py</text>
+    </g>
+    </g><g transform="translate(996, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">aem2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script converts Apple OS X Lion plist file to “shadow”</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script converts AIX etc/security/passw</text><circle cx="21" cy="111" r="2.6" fill="#3b82f6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">compatible with John the Ripper</text><circle cx="21" cy="132" r="2.6" fill="#3b82f6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aix2john.pl &amp; aix2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">lion2john-alt.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">AndOTP hashes to john</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves SHA-512 salted hashes from Mac OS X 10.7 Lion</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">andotp2john.py</text>
+    </g>
+    </g><g transform="translate(498, 189)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">lion2john.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extract and repack Android backups created with adb backup</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash for Lotus Notes</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">andotp2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 193)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#10b981"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">lotus2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Program to &quot;convert&quot; Android FDE images / disks into JtR</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">friendly format</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash for cracking LUKS password</text><circle cx="21" cy="111" r="2.6" fill="#10b981"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">androidfde2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 310)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">luks2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To generate the hash of Ansible Vault</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This program helps in extracting password hashes from OS X /</text>
+    </g>
+    </g><g transform="translate(0, 323)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ansible2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">macOS systems (&gt;= Mountain Lion -&gt; 10.8+)</text>
+    </g>
+    </g><g transform="translate(498, 344)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">mac2john-alt.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Dump hashes of APEX</text>
+    </g>
+    </g><g transform="translate(996, 348)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">apex2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This program helps in extracting password hashes from OS X /</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">macOS systems (&gt;= Mountain Lion -&gt; 10.8+)</text>
+    </g>
+    </g><g transform="translate(1992, 365)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">mac2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Script to extract “hashes” from password protected Apple</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Notes</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">databases</text>
+    </g>
+    </g><g transform="translate(0, 436)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">applenotes2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Converts McAfee ePO password files to John format</text>
+    </g>
+    </g><g transform="translate(1494, 444)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#10b981"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">mcafee_epo2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ArubaOS password hashing algorithm</text>
+    </g>
+    </g><g transform="translate(498, 457)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">aruba2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from Monero databases</text>
+    </g>
+    </g><g transform="translate(996, 482)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">monero2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Script to extract hash from AxCrypt encrypted file or</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">self-decrypting</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">binary</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash from MS Money files</text><circle cx="21" cy="132" r="2.6" fill="#8b5cf6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">axcrypt2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 516)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">money2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extrac hash from BestCrypt containers</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Mozilla Database Password Cracker Assistant (key3.db password</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">master)</text><circle cx="21" cy="111" r="2.6" fill="#ec4899"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bestcrypt2john.py</text>
+    </g>
+    </g><g transform="translate(0, 549)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">mozilla2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hash from Bitcon wallets to guess password</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash for cracking MultiBit Classic and HD wallets</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 557)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">multibit2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Script for extracting hashes from BitShares databases</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">It seems the utility generates hash from the Neo Blockchain</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">wallet,</text>
+    </g>
+    </g><g transform="translate(498, 570)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">bitshares2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">but there is no documentation</text>
+    </g>
+    </g><g transform="translate(996, 675)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">neo2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Utility to extract “hashes” from local data Google Chrome /</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Firefox / Android</text>
+    </g>
+    </g><g transform="translate(498, 683)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">bitwarden2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script is to aid with cracking a LM/NTLM</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">challenge/response set,</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">when part of the password is known</text>
+    </g>
+    </g><g transform="translate(1992, 688)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">netntlm.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Converts BKS keystores to JtR compatible format</text>
+    </g>
+    </g><g transform="translate(0, 704)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">bks2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script will generate a netscreen formatted password</text>
+    </g>
+    </g><g transform="translate(1494, 708)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">netscreen.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Blockchain wallet files</text>
+    </g>
+    </g><g transform="translate(1992, 801)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">blockchain2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts hash from MS Office files for cracking in John the</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Ripper</text>
+    </g>
+    </g><g transform="translate(996, 805)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">office2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script extracts a crackable hash from the krb5</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">credential cache</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">files</text>
+    </g>
+    </g><g transform="translate(0, 817)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#10b981"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ccache2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">In OpenBSD 6.1, softraid crypto switched to bcrypt PBKDF</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">instead of</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">PKCS5 PBKDF2</text>
+    </g>
+    </g><g transform="translate(1494, 821)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">openbsd_softraid2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Initial Cisco type 4 password decoder</text>
+    </g>
+    </g><g transform="translate(498, 834)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">cisco2john.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This utility helps in cracking files encrypted using &quot;openssl</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">enc&quot;</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">command</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Contains the mapping information between a code point and a</text><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">character</text>
+    </g>
+    </g><g transform="translate(1992, 931)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">openssl2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ID</text>
+    </g>
+    </g><g transform="translate(1494, 934)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">codepage.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts hashes for the Padlock Android cracking</text>
+    </g>
+    </g><g transform="translate(996, 956)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">padlock2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes CRACF.TXT files (generated by the CRACF program)</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">into a</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format suitable for JtR</text>
+    </g>
+    </g><g transform="translate(0, 968)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">cracf2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Combines several pcap conversion utilities</text>
+    </g>
+    </g><g transform="translate(498, 1023)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pcap2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Allow John to create and edit cron jobs</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">John The Ripper Converters</text>
+    </g>
+    </g><g transform="translate(1992, 1044)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">cronjob</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts hash from encrypted PDF files</text>
+    </g>
+    </g><g transform="translate(1494, 1047)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pdf2john.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from Dashlane .aes and .dash files</text>
+    </g>
+    </g><g transform="translate(0, 1081)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">dashlane2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generating hashes from .pem files using the PCKS #8 format</text>
+    </g>
+    </g><g transform="translate(996, 1107)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pem2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts password hashes from audio files containing</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">encrypted data</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">steganographically embedded by DeepSound</text><circle cx="21" cy="111" r="2.6" fill="#3b82f6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generate a hash to crack password-protected PKCS12 files</text><circle cx="21" cy="132" r="2.6" fill="#3b82f6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">deepsound2john.py</text>
+    </g>
+    </g><g transform="translate(498, 1157)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pfx2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hash from DiskCryptor</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">It generates hashes for PGP Virtual Disk FILE (s) .pgd</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">diskcryptor2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 1157)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pgpdisk2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Apple Disk Samples (DMG)</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Calculates a hash for cracking self-decrypting archive (SDA),</text>
+    </g>
+    </g><g transform="translate(1494, 1160)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">dmg2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Symantec Encryption Desktop (SED) PGP archive files</text>
+    </g>
+    </g><g transform="translate(0, 1194)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pgpsda2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Helper script for cracking eCryptfs</text>
+    </g>
+    </g><g transform="translate(1494, 1273)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ecryptfs2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves a hash from fully encrypted PGP WDE / Symantec</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Encryption Destop disk images</text>
+    </g>
+    </g><g transform="translate(1992, 1291)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pgpwde2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extract hashes from files created by the command</text>
+    </g>
+    </g><g transform="translate(996, 1300)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ejabberd2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extracts hashes from Prosody IM&apos;s .dat files which can be</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">found</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">under the /var/lib/prosody/&lt;domain&gt;/accounts location</text><circle cx="21" cy="111" r="2.6" fill="#3b82f6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash of the Ethereum crypto wallet file</text><circle cx="21" cy="132" r="2.6" fill="#3b82f6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">prosody2john.py</text>
+    </g>
+    </g><g transform="translate(0, 1307)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="251" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">electrum2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This script can be used to parse PSE files and extract</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">encrypted</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The encfs2john.py utility processes EncFS files into a format</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">suitable for use with</text><circle cx="21" cy="128" r="2.6" fill="#00f0ff"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">material and data in a format that John the Ripper or other</text><text x="34" y="149" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cracking</text><circle cx="21" cy="166" r="2.6" fill="#00f0ff"/><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JtR</text><circle cx="21" cy="187" r="2.6" fill="#00f0ff"/><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">tools can use to look for the decryption PIN.</text><circle cx="21" cy="208" r="2.6" fill="#00f0ff"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">encfs2john.py</text>
+    </g>
+    </g><g transform="translate(498, 1312)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">pse2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from Enpass Password Manager version 6.x</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes Password Safe files and generates a JtR cracking</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hash</text><circle cx="21" cy="111" r="2.6" fill="#f59e0b"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">databases</text><circle cx="21" cy="132" r="2.6" fill="#f59e0b"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pwsafe2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 1404)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#10b981"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">enpass2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Utility to extract hash and brute force RADIUS shared-secret</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from Enpass Password Manager version 5.x</text>
+    </g>
+    </g><g transform="translate(1494, 1407)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">radius2john.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">databases</text>
+    </g>
+    </g><g transform="translate(996, 1493)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">enpass5tojohn.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Utility to extract hash and brute force RADIUS shared-secret</text>
+    </g>
+    </g><g transform="translate(498, 1505)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">radius2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hash from Ethereum Wallets (Geth / Mist /</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">MyEtherWallet)</text>
+    </g>
+    </g><g transform="translate(1494, 1520)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ethereum2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Script to generate rules for John the Ripper from rexgen</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rules</text>
+    </g>
+    </g><g transform="translate(1992, 1538)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">rexgen2rules.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from “FileZilla Server.xml” files</text>
+    </g>
+    </g><g transform="translate(0, 1576)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filezilla2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This Perl script converts password hashes downloaded from SAP</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">systems into a format suitable for John the Ripper</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Process hccapx file into a format suitable for use with JtR</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sap2john.pl</text>
+    </g>
+    </g><g transform="translate(996, 1606)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#10b981"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">hccapx2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Hash extraction for cracking the Signal messenger password</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Convert a hexadecimal value to a raw value</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">signal2john.py</text>
+    </g>
+    </g><g transform="translate(498, 1635)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="213" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">hextoraw.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes sipdump output files (dump files) into a format</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">suitable for</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This utility processes htdigest files into a format suitable</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">for use with</text><circle cx="21" cy="128" r="2.6" fill="#ef4444"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">use with JtR</text><circle cx="21" cy="149" r="2.6" fill="#ef4444"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JtR</text><circle cx="21" cy="170" r="2.6" fill="#ef4444"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sipdump2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 1650)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">htdigest2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Retrieves hashes from RSA/DSA/EC/OpenSSH private keys</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Converts files in the userid:hash format to the as400-sha</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format,</text>
+    </g>
+    </g><g transform="translate(1992, 1651)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ssh2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">which can be processed by JtR. Multiple files can be</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">specified</text>
+    </g>
+    </g><g transform="translate(0, 1752)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ibmiscanner2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Utility to retrieve NetIQ SSPR hashes from a LDAP server</text>
+    </g>
+    </g><g transform="translate(996, 1761)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">sspr2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes ike-scan output files in a format suitable for use</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">with JtR</text>
+    </g>
+    </g><g transform="translate(1992, 1781)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ikescan2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The staroffice2john.py utility converts StarOffice files into</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">a format</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">suitable for use with JtR</text><circle cx="21" cy="111" r="2.6" fill="#f59e0b"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Script generate the hash to brute-force IOS 7 security PIN</text><circle cx="21" cy="132" r="2.6" fill="#f59e0b"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">staroffice2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 1801)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#10b981"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">ios7tojohn.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Processes STRIP files into a suitable format for use with JtR</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash for cracking IOS backups</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">strip2john.py</text>
+    </g>
+    </g><g transform="translate(0, 1865)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">itunes_backup2john.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">A utility for extracting &quot;hashes&quot; from the userconfing.xml</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">file(s) of the</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generates a hash for cracking iWork files</text><circle cx="21" cy="111" r="2.6" fill="#ef4444"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Telegram Android application and from the file (map) of the</text>
+    </g>
+    </g><g transform="translate(498, 1866)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">iwork2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Telegram Desktop local storage</text>
+    </g>
+    </g><g transform="translate(996, 1891)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">telegram2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Kdcdump patch output translation for JtR</text>
+    </g>
+    </g><g transform="translate(1494, 1956)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">kdcdump2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Creates Tezos File For John The Ripper</text>
+    </g>
+    </g><g transform="translate(1992, 1974)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">tezos2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Reworks Mac OS X keychain files into John the Ripper-friendly</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format</text>
+    </g>
+    </g><g transform="translate(498, 1979)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">keychain2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Utility to import TrueCrypt volume to a format crackeable by</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">John The</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Ripper</text>
+    </g>
+    </g><g transform="translate(996, 2004)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#10b981"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">truecrypt2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Hack GNOME Keyring files, converts Gnome Keyring files to</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">john format</text>
+    </g>
+    </g><g transform="translate(0, 2037)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">keyring2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extract basewords from list of plains</text>
+    </g>
+    </g><g transform="translate(1494, 2069)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">unrule.pl</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Currently, only Sun “JKS” files are supported</text>
+    </g>
+    </g><g transform="translate(1992, 2104)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">keystore2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Converts *.vbox files (which contain the encryption</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">information of</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the associated *.vdi file) to the correct format for JtR</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">processing</text><circle cx="21" cy="128" r="2.6" fill="#ec4899"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">vdi2john.pl</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 2528)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

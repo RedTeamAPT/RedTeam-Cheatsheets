@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 2980" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="2980" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="2980" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 1490.0)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="745.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1490.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="2235.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">JOHN THE RIPPER</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="578" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">1password2john.py</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">7z2john.pl</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">adxcsouf2john.py</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aem2john.py</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aix2john.pl</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aix2john.py</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">andotp2john.py</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">androidbackup2john.py</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">androidfde2john.py</text><circle cx="21" cy="220" r="2.6" fill="#00f0ff"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ansible2john.py</text><circle cx="21" cy="241" r="2.6" fill="#00f0ff"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">apex2john.py</text><circle cx="21" cy="262" r="2.6" fill="#00f0ff"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">applenotes2john.py</text><circle cx="21" cy="283" r="2.6" fill="#00f0ff"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aruba2john.py</text><circle cx="21" cy="304" r="2.6" fill="#00f0ff"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">atmail2john.pl</text><circle cx="21" cy="325" r="2.6" fill="#00f0ff"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">axcrypt2john.py</text><circle cx="21" cy="346" r="2.6" fill="#00f0ff"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bestcrypt2john.py</text><circle cx="21" cy="367" r="2.6" fill="#00f0ff"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin2john.py</text><circle cx="21" cy="388" r="2.6" fill="#00f0ff"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitshares2john.py</text><circle cx="21" cy="409" r="2.6" fill="#00f0ff"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitwarden2john.py</text><circle cx="21" cy="430" r="2.6" fill="#00f0ff"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bks2john.py</text><circle cx="21" cy="451" r="2.6" fill="#00f0ff"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">blockchain2john.py</text><circle cx="21" cy="472" r="2.6" fill="#00f0ff"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ccache2john.py</text><circle cx="21" cy="493" r="2.6" fill="#00f0ff"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cisco2john.pl</text><circle cx="21" cy="514" r="2.6" fill="#00f0ff"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">codepage.pl</text><circle cx="21" cy="535" r="2.6" fill="#00f0ff"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cracf2john.py</text>
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--help</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Print usage summary</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cronjob</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">dashlane2john.py</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#10b981"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single[=SECTION[,..]]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Single crack&quot; mode, using default or named rules</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">deepsound2john.py</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">diskcryptor2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single=:rule[,..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Same, using &quot;immediate&quot; rule(s)</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">dmg2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DPAPImk2john.py</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ecryptfs2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single-seed=WORD[,WORD]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Add static seed word(s) for all salts in single mode</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ejabberd2john.py</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">electrum2john.py</text>
+    </g>
+    </g><g transform="translate(498, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single-wordlist=FILE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">*Short* wordlist with static seed words/morphemes</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">encfs2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">enpass2john.py</text>
+    </g>
+    </g><g transform="translate(996, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single-user-seed=FILE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Wordlist with seeds per username (user:password[s] format)</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">enpass5tojohn.py</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ethereum2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--single-pair-max=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Override max. number of word pairs generated (6)</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filezilla2john.py</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">fuzz_option.pl</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">geli2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 176)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--no-single-pair</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Disable single word pair generation</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">genincstats.rb</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hccapx2john.py</text>
+    </g>
+    </g><g transform="translate(498, 310)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#10b981"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--[no-]single-retest-guess</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Override config for SingleRetestGuess</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hextoraw.pl</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">htdigest2john.py</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Wordlist mode, read words from FILE or stdin --pipe like</text><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--stdin, but</text>
+    </g>
+    </g><g transform="translate(996, 310)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="179" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--wordlist[=FILE] --stdin</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ibmiscanner2john.py</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bulk reads, and allows rules</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ikescan2john.py</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ios7tojohn.pl</text><circle cx="21" cy="136" r="2.6" fill="#ef4444"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enable word mangling rules (for wordlist or PRINCE</text>
+    </g>
+    </g><g transform="translate(1494, 331)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--rules[=SECTION[,..]]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">modes), using default or named rules</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">itunes_backup2john.pl</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">iwork2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 331)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="179" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--rules=:rule[;..]]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Same, using &quot;immediate&quot; rule(s)</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">kdcdump2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">keychain2john.py</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Stacked rules, applied after regular rules or to</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">keyring2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 486)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--rules-stack=SECTION[,..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">modes that otherwise don&apos;t support rules</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">keystore2john.py</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">kirbi2john.py</text>
+    </g>
+    </g><g transform="translate(498, 503)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--rules-stack=:rule[;..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Same, using &quot;immediate&quot; rule(s)</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">known_hosts2john.py</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">krb2john.py</text>
+    </g>
+    </g><g transform="translate(996, 507)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--rules-skip-nop</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Skip any NOP &quot;:&quot; rules (you already ran w/o rules)</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">kwallet2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 528)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Converter</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">lastpass2john.py</text>
+    </g>
+    </g><g transform="translate(0, 596)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--loopback[=FILE]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ldif2john.pl</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Like --wordlist, but extract words from a .pot file</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">leet.pl</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">libreoffice2john.py</text>
+    </g>
+    </g><g transform="translate(996, 641)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--mem-file-size=SIZE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Size threshold for wordlist preload (default 2048 MB)</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">lion2john-alt.pl</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">lion2john.pl</text>
+    </g>
+    </g><g transform="translate(1494, 641)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--dupe-suppression</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Suppress all dupes in wordlist (and force preload)</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">lotus2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">luks2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 641)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--incremental[=MODE]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Incremental&quot; mode [using section MODE]</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mac2john-alt.py</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mac2john.py</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mcafee_epo2john.py</text>
+    </g>
+    </g><g transform="translate(498, 658)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--incremental-charcount=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Override CharCount for incremental mode</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">monero2john.py</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">money2john.py</text>
+    </g>
+    </g><g transform="translate(0, 772)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--external=MODE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">External mode or word filter</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mosquitto2john.py</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mozilla2john.py</text>
+    </g>
+    </g><g transform="translate(996, 796)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#10b981"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--mask[=MASK]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Mask mode using MASK (or default from john.conf)</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">multibit2john.py</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">neo2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 796)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--markov[=OPTIONS]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Markov&quot; mode</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">netntlm.pl</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">netscreen.py</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">office2john.py</text>
+    </g>
+    </g><g transform="translate(498, 813)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--mkv-stats=FILE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Markov&quot; stats file</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openbsd_softraid2john.py</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openssl2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 817)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince[=FILE]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">PRINCE mode, read words from FILE</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">padlock2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pass_gen.pl</text>
+    </g>
+    </g><g transform="translate(0, 927)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--verbosity=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Change verbosity (1-5 or 6 for debug, default 3)</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pcap2john.py</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pdf2john.pl</text>
+    </g>
+    </g><g transform="translate(996, 951)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--no-log</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pem2john.py</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Disables creation and writing to john.log file</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pfx2john.py</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pgpdisk2john.py</text>
+    </g>
+    </g><g transform="translate(498, 968)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--bare-always-valid=Y</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Treat bare hashes as valid (Y/N)</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pgpsda2john.py</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pgpwde2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 972)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#10b981"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--catch-up=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Catch up with existing (paused) session NAME</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">potcheck.pl</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">prosody2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 972)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--config=FILE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Use FILE instead of john.conf or john.ini</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pse2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ps_token2john.py</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pwsafe2john.py</text>
+    </g>
+    </g><g transform="translate(0, 1082)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--encoding=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Input encoding (eg. UTF-8, ISO-8859-1).</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">radius2john.pl</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">radius2john.py</text>
+    </g>
+    </g><g transform="translate(498, 1123)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="221" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--input-encoding=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Input encoding (alias for --encoding)</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">restic2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rexgen2rules.pl</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--internal-codepage=NAME</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Codepage used in rules/masks</text><circle cx="21" cy="157" r="2.6" fill="#ec4899"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rulestack.pl</text><circle cx="21" cy="178" r="2.6" fill="#ec4899"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sap2john.pl</text>
+    </g>
+    </g><g transform="translate(996, 1127)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="196" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--target-encoding=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Output encoding (used by format)</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sense2john.py</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sha-dump.pl</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Set up terminal for reading keystrokes even if we&apos;re not the</text><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">foreground</text><circle cx="21" cy="153" r="2.6" fill="#3b82f6"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sha-test.pl</text>
+    </g>
+    </g><g transform="translate(1494, 1127)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--force-tty</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">process</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">signal2john.py</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sipdump2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 1148)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--field-separator-char=C</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Use &apos;C&apos; instead of the &apos;:&apos; in input and pot files</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssh2john.py</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sspr2john.py</text>
+    </g>
+    </g><g transform="translate(0, 1237)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#10b981"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--[no-]keep-guessing</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Try finding plaintext collisions</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">staroffice2john.py</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">strip2john.py</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telegram2john.py</text>
+    </g>
+    </g><g transform="translate(1494, 1282)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--list=WHAT</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">List capabilities, see --list=help</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">tezos2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">truecrypt2john.py</text>
+    </g>
+    </g><g transform="translate(1992, 1303)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--length=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shortcut for --min-len=N --max-len=N</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">unrule.pl</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">vdi2john.pl</text>
+    </g>
+    </g><g transform="translate(996, 1341)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--min-length=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Request a minimum candidate length in bytes</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">vmx2john.py</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">zed2john.py</text>
+    </g>
+    </g><g transform="translate(498, 1362)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--max-length=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Request a maximum candidate length in bytes</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Force hash of type NAME. The supported formats can</text>
+    </g>
+    </g><g transform="translate(0, 1413)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--format=[NAME|CLASS][,..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">be seen with --list=formats and --list=subformats.</text>
+    </g>
+    </g><g transform="translate(1494, 1437)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-loopback[=FILE]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Fetch words from a .pot file</text>
+    </g>
+    </g><g transform="translate(1992, 1458)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#10b981"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subformat=FORMAT</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Pick a benchmark format for --format=crypt</text>
+    </g>
+    </g><g transform="translate(498, 1496)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-elem-cnt-min=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Minimum number of elements per chain (1)</text>
+    </g>
+    </g><g transform="translate(996, 1496)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--tune=HOW</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Tuning options (auto/report/N)</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Maximum number of elements per chain (negative N is relative</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">to word</text>
+    </g>
+    </g><g transform="translate(0, 1526)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-elem-cnt-max=[-]N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">length) (8)</text>
+    </g>
+    </g><g transform="translate(1494, 1550)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--reject-printable</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Reject printable binaries</text>
+    </g>
+    </g><g transform="translate(1992, 1571)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-skip=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Initial skip</text>
+    </g>
+    </g><g transform="translate(498, 1609)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--regen-lost-salts=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Brute force unknown salts</text>
+    </g>
+    </g><g transform="translate(0, 1639)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#10b981"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-limit=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Limit number of candidates generated</text>
+    </g>
+    </g><g transform="translate(996, 1647)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--pot=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Pot file to use</text>
+    </g>
+    </g><g transform="translate(1494, 1663)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-wl-dist-len</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Calculate length distribution from wordlist</text>
+    </g>
+    </g><g transform="translate(1992, 1684)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--no-loader-dupecheck</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Disable the dupe checking when loading hashes</text>
+    </g>
+    </g><g transform="translate(498, 1722)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-wl-max=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load only N words from input wordlist</text>
+    </g>
+    </g><g transform="translate(0, 1752)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--mkpc=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Request a lower max. keys per crypt</text>
+    </g>
+    </g><g transform="translate(996, 1760)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-case-permute</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Permute case of first letter</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gracefully exit after this many seconds (if negative,reset</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">timer on each</text>
+    </g>
+    </g><g transform="translate(1494, 1776)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#10b981"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--max-run-time=[-]N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">crack)</text>
+    </g>
+    </g><g transform="translate(1992, 1797)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--show[=left]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Show cracked passwords [if =left, then uncracked]</text>
+    </g>
+    </g><g transform="translate(498, 1835)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--max-candidates=[-]N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gracefully exit after this many candidates tried.</text>
+    </g>
+    </g><g transform="translate(0, 1865)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--show=formats</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Show information about hashes in a file (JSON)</text>
+    </g>
+    </g><g transform="translate(1494, 1889)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--log-stderr</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log to screen instead of file</text>
+    </g>
+    </g><g transform="translate(1992, 1910)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--show=invalid</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Show lines that are not valid for selected format(s)</text>
+    </g>
+    </g><g transform="translate(996, 1911)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--save-memory=LEVEL</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enable memory saving, at LEVEL 1..3</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Run tests and benchmarks for TIME seconds each</text>
+    </g>
+    </g><g transform="translate(498, 1948)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#10b981"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--test[=TIME]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">(if TIME is explicitly 0, test w/o benchmark)</text>
+    </g>
+    </g><g transform="translate(0, 1978)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--node=MIN[-MAX]/TOTAL</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This node&apos;s number range out of TOTAL count</text>
+    </g>
+    </g><g transform="translate(1494, 2002)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--stress-test[=TIME]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Loop self tests forever</text>
+    </g>
+    </g><g transform="translate(1992, 2023)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--fork=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Fork N processes</text>
+    </g>
+    </g><g transform="translate(996, 2045)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--test-full=LEVEL</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Run more thorough self-tests</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load salts with[out] cost value Cn [to Mn]. For</text>
+    </g>
+    </g><g transform="translate(498, 2061)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--costs=[-]C[:M][,...]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">tunable cost parameters</text>
+    </g>
+    </g><g transform="translate(0, 2091)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--no-mask</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Used with --test for alternate benchmark w/o mask</text>
+    </g>
+    </g><g transform="translate(1494, 2115)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#10b981"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--salts=#M[-N]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load M [to N] most populated salts</text>
+    </g>
+    </g><g transform="translate(1992, 2136)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--skip-self-test</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Skip self tests</text>
+    </g>
+    </g><g transform="translate(498, 2174)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--salts=[-]COUNT[:MAX]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load salts with[out] COUNT [to MAX] hashes</text>
+    </g>
+    </g><g transform="translate(996, 2179)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="325.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="176.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--users=[-]LOGIN|UID[,..] [Do not]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">load this (these) user(s) only</text>
+    </g>
+    </g><g transform="translate(0, 2204)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--shells=[-]SHELL[,..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load users with[out] this (these) shell(s) only</text>
+    </g>
+    </g><g transform="translate(1494, 2228)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--groups=[-]GID[,..]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load users [not] of this (these) group(s) only</text>
+    </g>
+    </g><g transform="translate(1992, 2249)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--progress-every=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Emit a status line every N seconds</text>
+    </g>
+    </g><g transform="translate(498, 2287)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#10b981"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-mmap</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Memory-map infile (not available with case permute)</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Just show total keyspace that would be produced (disregarding</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">skip</text>
+    </g>
+    </g><g transform="translate(996, 2292)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--prince-keyspace</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">and limit)</text>
+    </g>
+    </g><g transform="translate(0, 2317)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets[=CHARSET]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Subsets&quot; mode</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The N first characters of &quot;subsets&quot; charset are</text>
+    </g>
+    </g><g transform="translate(1494, 2341)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets-required=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the &quot;required set&quot;</text>
+    </g>
+    </g><g transform="translate(1992, 2362)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets-min-diff=N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Minimum unique characters in subset</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Maximum unique characters in subset (negative N is relative</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">to word</text>
+    </g>
+    </g><g transform="translate(996, 2405)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets-max-diff=[-]N</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">length)</text>
+    </g>
+    </g><g transform="translate(498, 2438)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets-prefer-short</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Prefer shorter candidates over smaller subsets</text>
+    </g>
+    </g><g transform="translate(0, 2451)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#10b981"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--subsets-prefer-small</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Prefer smaller subsets over shorter candidates</text>
+    </g>
+    </g><g transform="translate(1494, 2454)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--make-charset=FILE</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Make a charset, FILE will be overwritten</text>
+    </g>
+    </g><g transform="translate(1992, 2513)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--stdout[=LENGTH]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Just output candidate passwords [cut at LENGTH]</text>
+    </g>
+    </g><g transform="translate(996, 2518)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--session=NAME</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Give a new session the NAME</text>
+    </g>
+    </g><g transform="translate(498, 2551)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--status[=NAME]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Print status of a session [called NAME]</text>
+    </g>
+    </g><g transform="translate(0, 2564)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--restore[=NAME]</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Restore an interrupted session [called NAME]</text>
+    </g>
+    </g><g transform="translate(1494, 2567)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">--[no-]crack-status</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Emit a status line whenever a password is cracked</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 2915)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1656 1059" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="1656" height="1059" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="1656" height="1059" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 828.0 529.5)" opacity="0.035" pointer-events="none">
+    <text x="828.0" y="264.75" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="828.0" y="529.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="828.0" y="794.25" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(828.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">BLUE TEAMING</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="74" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Blue Team Operations</text>
+      
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="326" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Security Monitoring</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Attack Simulation</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Hunting</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Alerts</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Operations Center (SOC)</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Detection Engineering</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Continuous Monitoring</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Detection</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log Monitoring</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Automation</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Endpoint Monitoring</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Network Monitoring</text><circle cx="21" cy="283" r="2.6" fill="#f59e0b"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Compliance and Governance</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="326" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#10b981"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Threat Detection</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Awareness Training</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Policies</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">MITRE ATT&amp;CK Mapping</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SIEM Analysis</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Auditing</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Risk Management</text><circle cx="21" cy="178" r="2.6" fill="#10b981"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Signature Detection</text><circle cx="21" cy="199" r="2.6" fill="#10b981"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Behavior Analysis</text><circle cx="21" cy="220" r="2.6" fill="#10b981"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Regulatory Compliance</text><circle cx="21" cy="241" r="2.6" fill="#10b981"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Intelligence</text><circle cx="21" cy="262" r="2.6" fill="#10b981"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Anomaly Detection</text><circle cx="21" cy="283" r="2.6" fill="#10b981"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Identity Security</text>
+    </g>
+    </g><g transform="translate(0, 92)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="326" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Incident Response</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Identity Threat Detection</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Access Control</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Post-Incident Review</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Incident Identification</text><circle cx="21" cy="136" r="2.6" fill="#ef4444"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Account Monitoring</text><circle cx="21" cy="157" r="2.6" fill="#ef4444"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Multi-Factor Authentication</text><circle cx="21" cy="178" r="2.6" fill="#ef4444"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Recovery</text><circle cx="21" cy="199" r="2.6" fill="#ef4444"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Incident Analysis</text><circle cx="21" cy="220" r="2.6" fill="#ef4444"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Privileged Access Management</text><circle cx="21" cy="241" r="2.6" fill="#ef4444"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Eradication</text><circle cx="21" cy="262" r="2.6" fill="#ef4444"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Containment</text><circle cx="21" cy="283" r="2.6" fill="#ef4444"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Tools</text>
+    </g>
+    </g><g transform="translate(498, 344)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="326" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Log Management</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Intelligence Platforms</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SIEM Platforms</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log Correlation</text><circle cx="21" cy="115" r="2.6" fill="#8b5cf6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">System Logs</text><circle cx="21" cy="136" r="2.6" fill="#8b5cf6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Network IDS / IPS</text><circle cx="21" cy="157" r="2.6" fill="#8b5cf6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">EDR Platforms</text><circle cx="21" cy="178" r="2.6" fill="#8b5cf6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Centralized Logging</text><circle cx="21" cy="199" r="2.6" fill="#8b5cf6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Application Logs</text><circle cx="21" cy="220" r="2.6" fill="#8b5cf6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SOAR Platforms</text><circle cx="21" cy="241" r="2.6" fill="#8b5cf6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Authentication Logs</text><circle cx="21" cy="262" r="2.6" fill="#8b5cf6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Network Logs</text><circle cx="21" cy="283" r="2.6" fill="#8b5cf6"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Intelligence</text>
+    </g>
+    </g><g transform="translate(996, 344)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="305" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Endpoint Security</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Adversary Tracking</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Indicators of Compromise (IOC)</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Host Intrusion Detection</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Endpoint Detection and Response (EDR)</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Malware Analysis</text><circle cx="21" cy="157" r="2.6" fill="#ec4899"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Indicators of Attack (IOA)</text><circle cx="21" cy="178" r="2.6" fill="#ec4899"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Patch Management</text><circle cx="21" cy="199" r="2.6" fill="#ec4899"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Antivirus / Anti-Malware</text><circle cx="21" cy="220" r="2.6" fill="#ec4899"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Threat Feeds</text><circle cx="21" cy="241" r="2.6" fill="#ec4899"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Device Control</text><circle cx="21" cy="262" r="2.6" fill="#ec4899"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Vulnerability Management</text>
+    </g>
+    </g><g transform="translate(0, 436)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="305" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Network Security</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Configuration Hardening</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Asset Discovery</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">VPN Monitoring</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Firewall Monitoring</text><circle cx="21" cy="136" r="2.6" fill="#3b82f6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Patch Management</text><circle cx="21" cy="157" r="2.6" fill="#3b82f6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Vulnerability Scanning</text><circle cx="21" cy="178" r="2.6" fill="#3b82f6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DNS Monitoring</text><circle cx="21" cy="199" r="2.6" fill="#3b82f6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intrusion Detection System (IDS)</text><circle cx="21" cy="220" r="2.6" fill="#3b82f6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Risk Assessment</text><circle cx="21" cy="241" r="2.6" fill="#3b82f6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Network Traffic Analysis</text><circle cx="21" cy="262" r="2.6" fill="#3b82f6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intrusion Prevention System (IPS)</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(828.0, 994)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

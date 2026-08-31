@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 2022" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="2022" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="2022" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 1011.0)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="505.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1011.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1516.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">GITHUB DORKS</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="742" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="274.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="151.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Possible IRC login passwords</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">possible salesforce credentials in nodejs projects</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">msg nickserv identify filename:config</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">jsforce extension:js conn.login</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Drupal website database credentials</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Github tokens used for jekyll</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">path:sites databases password</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">JEKYLL_GITHUB_TOKEN</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pivotaltracker tokens</text><circle cx="21" cy="220" r="2.6" fill="#00f0ff"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Github token usually set by homebrew users</text><circle cx="21" cy="241" r="2.6" fill="#00f0ff"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">PT_TOKEN language:bash</text><circle cx="21" cy="262" r="2.6" fill="#00f0ff"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">HOMEBREW_GITHUB_API_TOKEN language:shell</text><circle cx="21" cy="283" r="2.6" fill="#00f0ff"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Amazon RDS possible credentials</text><circle cx="21" cy="304" r="2.6" fill="#00f0ff"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Heroku api keys</text><circle cx="21" cy="325" r="2.6" fill="#00f0ff"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rds.amazonaws.com password</text><circle cx="21" cy="346" r="2.6" fill="#00f0ff"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">HEROKU_API_KEY language:shell</text><circle cx="21" cy="367" r="2.6" fill="#00f0ff"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">possible salesforce credentials</text><circle cx="21" cy="388" r="2.6" fill="#00f0ff"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Heroku api keys in json files</text><circle cx="21" cy="409" r="2.6" fill="#00f0ff"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SF_USERNAME salesforce</text><circle cx="21" cy="430" r="2.6" fill="#00f0ff"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">HEROKU_API_KEY language:json</text><circle cx="21" cy="451" r="2.6" fill="#00f0ff"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shodan API keys (try other languages too)</text><circle cx="21" cy="472" r="2.6" fill="#00f0ff"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">MLAB Hosted MongoDB Credentials</text><circle cx="21" cy="493" r="2.6" fill="#00f0ff"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">shodan_api_key language:python</text><circle cx="21" cy="514" r="2.6" fill="#00f0ff"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">.mlab.com password</text><circle cx="21" cy="535" r="2.6" fill="#00f0ff"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Slack bot and private tokens</text><circle cx="21" cy="556" r="2.6" fill="#00f0ff"/><text x="34" y="560" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Slack services URL often have secret API token as a suffix</text><circle cx="21" cy="577" r="2.6" fill="#00f0ff"/><text x="34" y="581" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">xoxp OR xoxb</text><circle cx="21" cy="598" r="2.6" fill="#00f0ff"/><text x="34" y="602" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;https://hooks.slack.com/services/&quot;</text><circle cx="21" cy="619" r="2.6" fill="#00f0ff"/><text x="34" y="623" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">WinFrame-Client infos needed by users to connect toCitrix</text><text x="34" y="640" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Application Servers</text><circle cx="21" cy="657" r="2.6" fill="#00f0ff"/><text x="34" y="661" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Telegram API token</text><circle cx="21" cy="678" r="2.6" fill="#00f0ff"/><text x="34" y="682" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">[WFClient] Password= extension:ica</text><circle cx="21" cy="699" r="2.6" fill="#00f0ff"/><text x="34" y="703" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;api_hash&quot; &quot;api_id&quot;</text>
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="473" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Finding API</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Git-Secrets</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gittyleaks</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Git-All-Secrets</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">private keys</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Trufflehog</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gitrob</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:pem private</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">GitDorker</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Github-Dorks</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">puttygen private keys</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mongolab credentials in json configs</text><circle cx="21" cy="283" r="2.6" fill="#f59e0b"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Git-Hound</text><circle cx="21" cy="304" r="2.6" fill="#f59e0b"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ShhGit</text><circle cx="21" cy="325" r="2.6" fill="#f59e0b"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:ppk private</text><circle cx="21" cy="346" r="2.6" fill="#f59e0b"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:json mongolab.com</text><circle cx="21" cy="367" r="2.6" fill="#f59e0b"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Repo Security Scanner</text><circle cx="21" cy="388" r="2.6" fill="#f59e0b"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">GitGraber</text><circle cx="21" cy="409" r="2.6" fill="#f59e0b"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mysql dump</text><circle cx="21" cy="430" r="2.6" fill="#f59e0b"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OAuth credentials for accessing Google APIs</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="641" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Tools</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:sql mysql dump</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:json googleusercontent client_secret</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mysql dump look for password; you can try varieties</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Redis credentials provided by Redis Labs found in a JSON file</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;bucket_name&quot;</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:sql mysql dump password</text><circle cx="21" cy="178" r="2.6" fill="#10b981"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:json cloud.redislabs.com</text><circle cx="21" cy="199" r="2.6" fill="#10b981"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;S3_ACCESS_KEY_ID&quot;</text><circle cx="21" cy="220" r="2.6" fill="#10b981"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;aws_secret_key&quot;</text><circle cx="21" cy="241" r="2.6" fill="#10b981"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Redis credentials provided by Redis Labs found in a YAML file</text><circle cx="21" cy="262" r="2.6" fill="#10b981"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">try variations, find api keys/secrets</text><circle cx="21" cy="283" r="2.6" fill="#10b981"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;S3_BUCKET&quot;</text><circle cx="21" cy="304" r="2.6" fill="#10b981"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;aws_access_key&quot;</text><circle cx="21" cy="325" r="2.6" fill="#10b981"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:yaml cloud.redislabs.com</text><circle cx="21" cy="346" r="2.6" fill="#10b981"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:json api.forecast.io</text><circle cx="21" cy="367" r="2.6" fill="#10b981"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;S3_ENDPOINT&quot;</text><circle cx="21" cy="388" r="2.6" fill="#10b981"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;list_aws_accounts&quot;</text><circle cx="21" cy="409" r="2.6" fill="#10b981"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mongolab credentials in yaml configs (try with yml)</text><circle cx="21" cy="430" r="2.6" fill="#10b981"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Contains license keys for Avast! Antivirus</text><circle cx="21" cy="451" r="2.6" fill="#10b981"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;S3_SECRET_ACCESS_KEY&quot;</text><circle cx="21" cy="472" r="2.6" fill="#10b981"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org:Target &quot;AWS_ACCESS_KEY_ID&quot;</text><circle cx="21" cy="493" r="2.6" fill="#10b981"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:yaml mongolab.com</text><circle cx="21" cy="514" r="2.6" fill="#10b981"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">extension:avastlic &quot;support.avast.com&quot;</text><circle cx="21" cy="535" r="2.6" fill="#10b981"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">AWS/S3 Recon</text><circle cx="21" cy="556" r="2.6" fill="#10b981"/><text x="34" y="560" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Finding Extensions</text><circle cx="21" cy="577" r="2.6" fill="#10b981"/><text x="34" y="581" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Finding Files</text><circle cx="21" cy="598" r="2.6" fill="#10b981"/><text x="34" y="602" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:_netrc password</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.bashrc mailchimp</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">netrc that possibly holds sensitive credentials</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">variation of above (try more variations)</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:wp-config.php</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.bashrc password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">wordpress config files</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">search for passwords, etc. in .bashrc (try with .bash_profile</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">too)</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:WebServers.xml</text>
+    </g>
+    </g><g transform="translate(1494, 155)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="175" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.bash_history</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by Jetbrains IDEs, contains webserver credentials</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">with encoded</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Bash history file</text><circle cx="21" cy="111" r="2.6" fill="#ec4899"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">passwords (not encrypted!)</text><circle cx="21" cy="132" r="2.6" fill="#ec4899"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:.bash_profile aws</text>
+    </g>
+    </g><g transform="translate(1992, 172)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:ventrilo_srv.ini</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">aws access and secret keys</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Ventrilo configuration</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:.cshrc</text>
+    </g>
+    </g><g transform="translate(1992, 327)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:sshd_config</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">RC file for csh shell</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OpenSSH server config</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:.dockercfg auth</text>
+    </g>
+    </g><g transform="translate(1494, 348)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:shadow path:etc</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">docker registry authentication data</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Contains encrypted passwords and account information of new</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">unix systems</text><circle cx="21" cy="111" r="2.6" fill="#f59e0b"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:.env DB_USERNAME NOT homestead</text>
+    </g>
+    </g><g transform="translate(1992, 482)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#10b981"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:sftp.json path:.vscode</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">laravel .env (CI, various ruby based frameworks too)</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by vscode-sftp for VSCode, contains SFTP/SSH server</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">details and credentails</text><circle cx="21" cy="111" r="2.6" fill="#10b981"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filename:.env MAIL_HOST=smtp.gmail.com</text>
+    </g>
+    </g><g transform="translate(498, 491)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:sftp-config.json</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">gmail smtp configuration (try different smtp services too)</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by SFTP for Sublime Text, contains FTP/FTPS or</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SFTP/SSH server</text>
+    </g>
+    </g><g transform="translate(1494, 520)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.esmtprc password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">details and credentials</text>
+    </g>
+    </g><g transform="translate(1494, 633)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:settings.py SECRET_KEY</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">esmtp configuration</text>
+    </g>
+    </g><g transform="translate(498, 642)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.ftpconfig</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Django secret keys (usually allows for session hijacking,</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">RCE, etc)</text>
+    </g>
+    </g><g transform="translate(1992, 654)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="316.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="172.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:server.cfg rcon password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by remote-ssh for Atom, contains SFTP/SSH server</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">details and credentials</text>
+    </g>
+    </g><g transform="translate(996, 659)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.git-credentials</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Counter Strike RCON Passwords</text>
+    </g>
+    </g><g transform="translate(1494, 746)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#10b981"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:secrets.yml password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">git credentials store, add NOT username for more valid</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">results</text>
+    </g>
+    </g><g transform="translate(0, 760)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.history</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Usernames/passwords, Rails applications</text>
+    </g>
+    </g><g transform="translate(498, 772)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:robomongo.json</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">history file (often used by many tools)</text>
+    </g>
+    </g><g transform="translate(996, 772)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.htpasswd</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mongodb credentials file used by robomongo</text>
+    </g>
+    </g><g transform="translate(1992, 784)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:recentservers.xml Pass</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">htpasswd files</text>
+    </g>
+    </g><g transform="translate(0, 873)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.netrc password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filezilla config file with possible user/pass to ftp</text>
+    </g>
+    </g><g transform="translate(1494, 876)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:proftpdpasswd</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">netrc that possibly holds sensitive credentials</text>
+    </g>
+    </g><g transform="translate(498, 885)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#10b981"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.npmrc _auth</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Usernames and passwords of proftpd created by cpanel</text>
+    </g>
+    </g><g transform="translate(996, 885)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:prod.secret.exs</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">npm registry authentication data</text>
+    </g>
+    </g><g transform="translate(1992, 897)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.pgpass</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phoenix prod secret</text>
+    </g>
+    </g><g transform="translate(0, 986)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="350.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="189.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:prod.exs NOT prod.secret.exs</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">PostgreSQL file which can contain passwords</text>
+    </g>
+    </g><g transform="translate(1494, 989)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.remote-sync.json</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phoenix prod configuration file</text>
+    </g>
+    </g><g transform="translate(498, 998)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:passwd path:etc</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by remote-sync for Atom, contains FTP and/or</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SCP/SFTP/SSH</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">server details and credentials</text><circle cx="21" cy="111" r="2.6" fill="#00f0ff"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Contains user account information including encrypted</text><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">passwords of</text>
+    </g>
+    </g><g transform="translate(996, 998)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.s3cfg</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">traditional unix systems</text>
+    </g>
+    </g><g transform="translate(1992, 1010)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#10b981"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:master.key path:config</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">might return false negatives with dummy values</text>
+    </g>
+    </g><g transform="translate(0, 1099)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.sh_history</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Rails master key (used for decrypting credentials.yml.enc for</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Rails 5.2+)</text>
+    </g>
+    </g><g transform="translate(1494, 1102)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:logins.json</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">korn shell history</text>
+    </g>
+    </g><g transform="translate(996, 1111)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="291.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="159.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:.tugboat NOT _tugboat</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Firefox saved password collection (key3.db usually in same</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">repo)</text>
+    </g>
+    </g><g transform="translate(1992, 1123)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="325.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="176.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:id_rsa or filename:id_dsa</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Digital Ocean tugboat config</text>
+    </g>
+    </g><g transform="translate(498, 1187)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:CCCam.cfg</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">private ssh keys</text>
+    </g>
+    </g><g transform="translate(1494, 1215)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:idea14.key</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">CCCam Server config file</text>
+    </g>
+    </g><g transform="translate(0, 1229)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#10b981"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:config irc_pass</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">IntelliJ Idea 14 key, try variations for other versions</text>
+    </g>
+    </g><g transform="translate(1992, 1236)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:hub oauth_token</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">possible IRC config</text>
+    </g>
+    </g><g transform="translate(996, 1241)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:config.json auths</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hub config that stores github tokens</text>
+    </g>
+    </g><g transform="translate(498, 1300)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="325.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="176.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:gitlab-recovery-codes.txt</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">docker registry authentication data</text>
+    </g>
+    </g><g transform="translate(1494, 1328)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="274.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="151.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:config.php dbpasswd</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">GitLab recovery key</text>
+    </g>
+    </g><g transform="translate(0, 1342)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="325.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="176.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:github-recovery-codes.txt</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">PHP application database password (e.g., phpBB forum</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">software)</text>
+    </g>
+    </g><g transform="translate(1992, 1349)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="401.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="214.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:configuration.php JConfig password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">GitHub recovery key</text>
+    </g>
+    </g><g transform="translate(996, 1354)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="265.5" height="32" rx="7" fill="#10b981"/>
+      <text x="146.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:filezilla.xml Pass</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Joomla configuration file</text>
+    </g>
+    </g><g transform="translate(498, 1413)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:connections.xml</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">filezilla config file with possible user/pass to ftp</text>
+    </g>
+    </g><g transform="translate(1494, 1441)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="350.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="189.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:express.conf path:.openshift</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">possible db connections configuration, try variations to be</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">specific</text>
+    </g>
+    </g><g transform="translate(1992, 1462)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="359.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="193.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:credentials aws_access_key_id</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openshift config, only email and server thou</text>
+    </g>
+    </g><g transform="translate(996, 1467)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="316.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="172.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:discord_backup_codes.txt</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">might return false negatives with dummy values</text>
+    </g>
+    </g><g transform="translate(0, 1472)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="316.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="172.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:dbeaver-data-sources.xml</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Discord recovery key</text>
+    </g>
+    </g><g transform="translate(498, 1526)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:dhcpd.conf</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DBeaver config containing MySQL Credentials</text>
+    </g>
+    </g><g transform="translate(1494, 1571)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#10b981"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">filename:deployment-config.json</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DHCP service config</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Created by sftp-deployment for Atom, contains server details</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">and credentials</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 1957)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

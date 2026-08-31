@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 1050" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="1050" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="1050" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 525.0)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="262.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="525.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="787.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">MEDUSA</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-c</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Time to wait in usec to verify socket is available (default</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">500 usec).</text>
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-h</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Target host-name or IP address</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-r</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Sleep NUM seconds between retry attempts (default 3)</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-f</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Stop scanning host after first valid username/password found.</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-M</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Name of the module to execute (without the .mod extension)</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Attempt NUM retries before giving up. The total number of</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">attempts</text>
+    </g>
+    </g><g transform="translate(498, 113)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-R</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">will be NUM + 1.</text>
+    </g>
+    </g><g transform="translate(996, 113)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="150" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-e</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Additional password checks ([n] No Password, [s] Password</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Username)</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Parameter to pass to the module. This can be passed multiple</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">times</text>
+    </g>
+    </g><g transform="translate(1494, 113)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-m</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">with a different parameter each time and they will all be</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sent to the</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">module</text>
+    </g>
+    </g><g transform="translate(0, 130)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-O</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File containing combo entries. See README for more</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">information</text>
+    </g>
+    </g><g transform="translate(1992, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-d</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Dump all known modules</text>
+    </g>
+    </g><g transform="translate(498, 226)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-g</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Give up after trying to connect for NUM seconds (default 3)</text>
+    </g>
+    </g><g transform="translate(0, 260)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-r</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Sleep NUM seconds between retry attempts (default 3)</text>
+    </g>
+    </g><g transform="translate(1494, 264)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-C</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File containing combo entries. See README for more</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">information</text>
+    </g>
+    </g><g transform="translate(1992, 264)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-n</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Use for non-default TCP port number</text>
+    </g>
+    </g><g transform="translate(996, 281)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-P</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File containing passwords to test</text>
+    </g>
+    </g><g transform="translate(498, 339)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-s</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enable SSL</text>
+    </g>
+    </g><g transform="translate(0, 373)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-p</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Password to test</text>
+    </g>
+    </g><g transform="translate(1992, 377)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-H</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File containing target hostnames or IP addresses</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Parallelize logins using one username per thread. The default</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">is to</text>
+    </g>
+    </g><g transform="translate(996, 394)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-L</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">process the entire username before proceeding.</text>
+    </g>
+    </g><g transform="translate(1494, 394)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-u</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Username to test</text>
+    </g>
+    </g><g transform="translate(498, 452)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-b</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Suppress startup banner</text>
+    </g>
+    </g><g transform="translate(0, 486)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-t</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Total number of logins to be tested concurrently</text>
+    </g>
+    </g><g transform="translate(996, 507)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-q</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Display module&apos;s usage information</text>
+    </g>
+    </g><g transform="translate(1494, 507)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="112" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-F</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Stop audit after first valid username/password found on any</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">host.</text>
+    </g>
+    </g><g transform="translate(1992, 528)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-w</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Error debug level [0 - 10 (more)]</text>
+    </g>
+    </g><g transform="translate(498, 565)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-v</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Verbose level [0 - 6 (more)]</text>
+    </g>
+    </g><g transform="translate(0, 599)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-Z</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Resume scan based on map of previous scan</text>
+    </g>
+    </g><g transform="translate(996, 620)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-V</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Display version</text>
+    </g>
+    </g><g transform="translate(1494, 637)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">-U</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File containing usernames to test</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 985)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

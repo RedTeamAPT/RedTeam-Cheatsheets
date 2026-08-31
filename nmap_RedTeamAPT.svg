@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2154 1524" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2154" height="1524" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2154" height="1524" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1077.0 762.0)" opacity="0.035" pointer-events="none">
+    <text x="1077.0" y="381.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1077.0" y="762.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1077.0" y="1143.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1077.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">NMAP</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="74" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Misc</text>
+      
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="297" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Target Specification</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-6: Enable IPv6 scanning</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-iL &lt;inputfilename&gt;: Input from list of hosts/networks</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-A: Enable OS detection, version detection, script scanning,</text><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">and traceroute</text><circle cx="21" cy="132" r="2.6" fill="#f59e0b"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-iR &lt;num hosts&gt;: Choose random targets</text><circle cx="21" cy="153" r="2.6" fill="#f59e0b"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--datadir &lt;dirname&gt;: Specify custom Nmap data file location</text><circle cx="21" cy="174" r="2.6" fill="#f59e0b"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--exclude &lt;host1[,host2][,host3],...&gt;: Exclude hosts/networks</text><circle cx="21" cy="195" r="2.6" fill="#f59e0b"/><text x="34" y="199" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--send-eth/--send-ip: Send using raw ethernet frames or IP</text><text x="34" y="216" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">packets</text><circle cx="21" cy="233" r="2.6" fill="#f59e0b"/><text x="34" y="237" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--excludefile &lt;exclude_file&gt;: Exclude list from file</text><circle cx="21" cy="254" r="2.6" fill="#f59e0b"/><text x="34" y="258" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--privileged: Assume that the user is fully privileged</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="200" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#10b981"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Host Discovery</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--unprivileged: Assume the user lacks raw socket privileges</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-V: Print version number</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sL: List Scan - simply list targets to scan</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-h: Print this help summary page.</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sn: Ping Scan - disable port scan</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-Pn: Treat all hosts as online -- skip host discovery</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="491" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Output</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-PS/PA/PU/PY: TCP SYN/ACK, UDP or SCTP discovery to given</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ports</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-oN/-oX/-oS/-oG &lt;file&gt;: Output scan in normal, XML, s|&lt;rIpt</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">kIddi3, and Grepable</text><circle cx="21" cy="128" r="2.6" fill="#ef4444"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-PE/PP/PM: ICMP echo, timestamp, and netmask request</text><text x="34" y="149" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">discovery probes</text><circle cx="21" cy="166" r="2.6" fill="#ef4444"/><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">format, respectively, to the given filename.</text><circle cx="21" cy="187" r="2.6" fill="#ef4444"/><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-PO[protocol list]: IP Protocol Ping</text><circle cx="21" cy="208" r="2.6" fill="#ef4444"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-oA &lt;basename&gt;: Output in the three major formats at once</text><circle cx="21" cy="229" r="2.6" fill="#ef4444"/><text x="34" y="233" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-n/-R: Never do DNS resolution/Always resolve [default:</text><text x="34" y="250" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sometimes]</text><circle cx="21" cy="267" r="2.6" fill="#ef4444"/><text x="34" y="271" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-v: Increase verbosity level (use -vv or more for greater</text><text x="34" y="288" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">effect)</text><circle cx="21" cy="305" r="2.6" fill="#ef4444"/><text x="34" y="309" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--dns-servers &lt;serv1[,serv2],...&gt;: Specify custom DNS servers</text><circle cx="21" cy="326" r="2.6" fill="#ef4444"/><text x="34" y="330" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-d: Increase debugging level (use -dd or more for greater</text><text x="34" y="347" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">effect)</text><circle cx="21" cy="364" r="2.6" fill="#ef4444"/><text x="34" y="368" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--system-dns: Use OS&apos;s DNS resolver</text><circle cx="21" cy="385" r="2.6" fill="#ef4444"/><text x="34" y="389" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--reason: Display the reason a port is in a particular state</text><circle cx="21" cy="406" r="2.6" fill="#ef4444"/><text x="34" y="410" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--traceroute: Trace hop path to each host</text><circle cx="21" cy="427" r="2.6" fill="#ef4444"/><text x="34" y="431" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--open: Only show open (or possibly open) ports</text><circle cx="21" cy="448" r="2.6" fill="#ef4444"/><text x="34" y="452" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--packet-trace: Show all packets sent and received</text>
+    </g>
+    </g><g transform="translate(0, 92)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="457" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Scan Techniques</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--iflist: Print host interfaces and routes (for debugging)</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--append-output: Append to rather than clobber specified</text><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">output files</text><circle cx="21" cy="132" r="2.6" fill="#8b5cf6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sU: UDP Scan</text><circle cx="21" cy="153" r="2.6" fill="#8b5cf6"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--resume &lt;filename&gt;: Resume an aborted scan</text><circle cx="21" cy="174" r="2.6" fill="#8b5cf6"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sN/sF/sX: TCP Null, FIN, and Xmas scans</text><circle cx="21" cy="195" r="2.6" fill="#8b5cf6"/><text x="34" y="199" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--noninteractive: Disable runtime interactions via keyboard</text><circle cx="21" cy="216" r="2.6" fill="#8b5cf6"/><text x="34" y="220" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--scanflags &lt;flags&gt;: Customize TCP scan flags</text><circle cx="21" cy="237" r="2.6" fill="#8b5cf6"/><text x="34" y="241" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--stylesheet &lt;path/URL&gt;: XSL stylesheet to transform XML</text><text x="34" y="258" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">output to HTML</text><circle cx="21" cy="275" r="2.6" fill="#8b5cf6"/><text x="34" y="279" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sI &lt;zombie host[:probeport]&gt;: Idle scan</text><circle cx="21" cy="296" r="2.6" fill="#8b5cf6"/><text x="34" y="300" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--webxml: Reference stylesheet from Nmap.Org for more</text><text x="34" y="317" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">portable XML</text><circle cx="21" cy="334" r="2.6" fill="#8b5cf6"/><text x="34" y="338" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sY/sZ: SCTP INIT/COOKIE-ECHO scans</text><circle cx="21" cy="355" r="2.6" fill="#8b5cf6"/><text x="34" y="359" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--no-stylesheet: Prevent associating of XSL stylesheet w/XML</text><text x="34" y="376" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">output</text><circle cx="21" cy="393" r="2.6" fill="#8b5cf6"/><text x="34" y="397" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sO: IP protocol scan</text><circle cx="21" cy="414" r="2.6" fill="#8b5cf6"/><text x="34" y="418" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-b &lt;FTP relay host&gt;: FTP bounce scan</text>
+    </g>
+    </g><g transform="translate(996, 218)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Firewall/IDS Evasion &amp; Spoofing</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-f; --mtu &lt;val&gt;: fragment packets (optionally w/given MTU)</text>
+    </g>
+    </g><g transform="translate(498, 315)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="419" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Port Specification &amp; Scan Order</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-D &lt;decoy1,decoy2[,ME],...&gt;: Cloak a scan with decoys</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-p &lt;port ranges&gt;: Only scan specified ports</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-S &lt;IP_Address&gt;: Spoof source address</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--exclude-ports &lt;port ranges&gt;: Exclude the specified ports</text><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">from scanning</text><circle cx="21" cy="153" r="2.6" fill="#3b82f6"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-e &lt;iface&gt;: Use specified interface</text><circle cx="21" cy="174" r="2.6" fill="#3b82f6"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-F: Fast mode - Scan fewer ports than the default scan</text><circle cx="21" cy="195" r="2.6" fill="#3b82f6"/><text x="34" y="199" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-g/--source-port &lt;portnum&gt;: Use given port number</text><circle cx="21" cy="216" r="2.6" fill="#3b82f6"/><text x="34" y="220" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-r: Scan ports sequentially - don&apos;t randomize</text><circle cx="21" cy="237" r="2.6" fill="#3b82f6"/><text x="34" y="241" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--proxies &lt;url1,[url2],...&gt;: Relay connections through</text><text x="34" y="258" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">HTTP/SOCKS4 proxies</text><circle cx="21" cy="275" r="2.6" fill="#3b82f6"/><text x="34" y="279" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--top-ports &lt;number&gt;: Scan &lt;number&gt; most common ports</text><circle cx="21" cy="296" r="2.6" fill="#3b82f6"/><text x="34" y="300" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--data &lt;hex string&gt;: Append a custom payload to sent packets</text><circle cx="21" cy="317" r="2.6" fill="#3b82f6"/><text x="34" y="321" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--port-ratio &lt;ratio&gt;: Scan ports more common than &lt;ratio&gt;</text><circle cx="21" cy="338" r="2.6" fill="#3b82f6"/><text x="34" y="342" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--data-string &lt;string&gt;: Append a custom ASCII string to sent</text><text x="34" y="359" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">packets</text><circle cx="21" cy="376" r="2.6" fill="#3b82f6"/><text x="34" y="380" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--data-length &lt;num&gt;: Append random data to sent packets</text>
+    </g>
+    </g><g transform="translate(996, 331)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="293" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Service/Version Detection</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--ip-options &lt;options&gt;: Send packets with specified ip</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">options</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--ttl &lt;val&gt;: Set IP time-to-live field</text><circle cx="21" cy="111" r="2.6" fill="#00f0ff"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sV: Probe open ports to determine service/version info</text><circle cx="21" cy="132" r="2.6" fill="#00f0ff"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--spoof-mac &lt;mac address/prefix/vendor name&gt;: Spoof your MAC</text><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">address</text><circle cx="21" cy="170" r="2.6" fill="#00f0ff"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--version-intensity &lt;level&gt;: Set from 0 (light) to 9 (try all</text><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">probes)</text><circle cx="21" cy="208" r="2.6" fill="#00f0ff"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--badsum: Send packets with a bogus TCP/UDP/SCTP checksum</text><circle cx="21" cy="229" r="2.6" fill="#00f0ff"/><text x="34" y="233" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--version-light: Limit to most likely probes (intensity 2)</text><circle cx="21" cy="250" r="2.6" fill="#00f0ff"/><text x="34" y="254" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--version-all: Try every single probe (intensity 9)</text>
+    </g>
+    </g><g transform="translate(1494, 509)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Timing &amp; Performance</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--version-trace: Show detailed version scan activity (for</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">debugging)</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-T&lt;0-5&gt;: Set timing template (higher is faster)</text>
+    </g>
+    </g><g transform="translate(0, 567)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="639" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Script Scan</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--min-hostgroup/max-hostgroup &lt;size&gt;: Parallel host scan</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">group sizes</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--min-parallelism/max-parallelism &lt;numprobes&gt;: Probe</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">parallelization</text><circle cx="21" cy="128" r="2.6" fill="#10b981"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-sC: equivalent to --script=default</text><circle cx="21" cy="149" r="2.6" fill="#10b981"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--min-rtt-timeout/max-rtt-timeout/initial-rtt-timeout &lt;time&gt;:</text><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Specifies probe</text><circle cx="21" cy="187" r="2.6" fill="#10b981"/><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script=&lt;Lua scripts&gt;: &lt;Lua scripts&gt; is a comma separated</text><text x="34" y="208" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">list of directories,</text><circle cx="21" cy="225" r="2.6" fill="#10b981"/><text x="34" y="229" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">round trip time.</text><circle cx="21" cy="246" r="2.6" fill="#10b981"/><text x="34" y="250" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">script-files or script-categories.</text><circle cx="21" cy="267" r="2.6" fill="#10b981"/><text x="34" y="271" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--max-retries &lt;tries&gt;: Caps number of port scan probe</text><text x="34" y="288" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">retransmissions.</text><circle cx="21" cy="305" r="2.6" fill="#10b981"/><text x="34" y="309" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script-args=&lt;n1=v1,[n2=v2,...]&gt;: provide arguments to</text><text x="34" y="326" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">scripts</text><circle cx="21" cy="343" r="2.6" fill="#10b981"/><text x="34" y="347" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--host-timeout &lt;time&gt;: Give up on target after this long</text><circle cx="21" cy="364" r="2.6" fill="#10b981"/><text x="34" y="368" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script-args-file=filename: provide NSE script args in a</text><text x="34" y="385" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">file</text><circle cx="21" cy="402" r="2.6" fill="#10b981"/><text x="34" y="406" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--scan-delay/--max-scan-delay &lt;time&gt;: Adjust delay between</text><text x="34" y="423" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">probes</text><circle cx="21" cy="440" r="2.6" fill="#10b981"/><text x="34" y="444" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script-trace: Show all data sent and received</text><circle cx="21" cy="461" r="2.6" fill="#10b981"/><text x="34" y="465" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--min-rate &lt;number&gt;: Send packets no slower than &lt;number&gt; per</text><text x="34" y="482" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">second</text><circle cx="21" cy="499" r="2.6" fill="#10b981"/><text x="34" y="503" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script-updatedb: Update the script database.</text><circle cx="21" cy="520" r="2.6" fill="#10b981"/><text x="34" y="524" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--max-rate &lt;number&gt;: Send packets no faster than &lt;number&gt; per</text><text x="34" y="541" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">second</text><circle cx="21" cy="558" r="2.6" fill="#10b981"/><text x="34" y="562" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--script-help=&lt;Lua scripts&gt;: Show help about scripts. &lt;Lua</text><text x="34" y="579" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">scripts&gt; is a comma-</text><circle cx="21" cy="596" r="2.6" fill="#10b981"/><text x="34" y="600" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">separated list of script-files or script-categories.</text>
+    </g>
+    </g><g transform="translate(996, 642)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">OS Detection</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-O: Enable OS detection</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--osscan-limit: Limit OS detection to promising targets</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">--osscan-guess: Guess OS more aggressively</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1077.0, 1459)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

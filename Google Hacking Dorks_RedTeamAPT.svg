@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2154 1135" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2154" height="1135" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2154" height="1135" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1077.0 567.5)" opacity="0.035" pointer-events="none">
+    <text x="1077.0" y="283.75" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1077.0" y="567.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1077.0" y="851.25" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1077.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">GOOGLE HACKING DORKS</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="74" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Filetype</text>
+      
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="343" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Basic Google Hacking Dorks</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Filetype:config site:example.com</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Filetype:xls site:example.com</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;allinurl:/cgibin/ + &quot;?&quot; + &quot;password&quot;</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Index of/&quot; + &quot;config.php&quot; wordpress demo</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Filetype:pem private key site:example.com</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Filetype:doc site:example.com</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:Index of&quot; + &quot;.htpasswd&quot;</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:Index of /&quot; + &quot;passwords.txt&quot;</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;allinurl:passwords.txt&quot; + &quot;email&quot;</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:Index of /&quot; + &quot;admin&quot; + &quot;password.txt&quot;</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intext:&quot;sql syntax near&quot; OR intext:&quot;syntax error has</text><text x="34" y="283" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">occurred&quot; OR</text><circle cx="21" cy="300" r="2.6" fill="#f59e0b"/><text x="34" y="304" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">intext:&quot;incorrect syntax near&quot;</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="325.0" height="32" rx="7" fill="#10b981"/>
+      <text x="176.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Sensitive Information Search Dorks</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intext:”Powered by phpBB” inurl:/viewtopic.php</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="263" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Intext</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com filetype:ppt username password&quot;</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com ext:xls password&quot;</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intext:”MyBB SQL Error” site:example.com</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intext:&quot;WordPress&quot; inurl:&quot;wpconfig.php&quot; filetype:log</text><circle cx="21" cy="136" r="2.6" fill="#ef4444"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com filetype:pdf username password&quot;</text><circle cx="21" cy="157" r="2.6" fill="#ef4444"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com ext:xlsx password&quot;</text><circle cx="21" cy="178" r="2.6" fill="#ef4444"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com ext:docx password&quot;</text><circle cx="21" cy="199" r="2.6" fill="#ef4444"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com ext:doc password&quot;</text><circle cx="21" cy="220" r="2.6" fill="#ef4444"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl</text>
+    </g>
+    </g><g transform="translate(0, 92)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="305" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Vulnerable Website Dorks</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl:/wpcontent/uploads/</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl:cv OR filetype:pdf “cv”</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl:/phpinfo.php</text><circle cx="21" cy="115" r="2.6" fill="#8b5cf6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl:/view/view.shtml</text><circle cx="21" cy="136" r="2.6" fill="#8b5cf6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Powered by WordPress&quot;</text><circle cx="21" cy="157" r="2.6" fill="#8b5cf6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intext:Drupal&quot; + &quot;Powered By Drupal forums&quot;</text><circle cx="21" cy="178" r="2.6" fill="#8b5cf6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Inurl:/admin</text><circle cx="21" cy="199" r="2.6" fill="#8b5cf6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Powered by vBulletin&quot;</text><circle cx="21" cy="220" r="2.6" fill="#8b5cf6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;powered by PHPmotion v3&quot;</text><circle cx="21" cy="241" r="2.6" fill="#8b5cf6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Powered by Vanilla forums&quot;</text><circle cx="21" cy="262" r="2.6" fill="#8b5cf6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Powered by osCommerce&quot;</text>
+    </g>
+    </g><g transform="translate(996, 113)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Intitle</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Powered by TinyMCE&quot;</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intitle:”index of” “apache at”</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intitle:”webcamXP 5″ inurl:8080</text>
+    </g>
+    </g><g transform="translate(996, 268)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Other Google Hacking Dorks</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intitle:”Index of /admin”</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Intitle:”Welcome to nginx!” intext:”Welcome to our server!”</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:/elfinder/connector.php&quot;</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;cache:www.targetwebsite.com&quot;</text>
+    </g>
+    </g><g transform="translate(1494, 281)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="305" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Cache</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:/main.php?x=&quot;</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:/proc/self/cwd&quot;</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Cache:example.com intext:some_one_secret_file</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Cache:example.com</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intext:phpMyAdmin SQL Dump filetype:sql&quot;</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:\&quot;WAMPSERVER homepage\&quot;&quot;</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Cache:”example.com” “MySQL dump”</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Cache:example.com filetype:doc pdf xls</text><circle cx="21" cy="220" r="2.6" fill="#00f0ff"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:admin.php site:targetwebsite.com&quot;</text><circle cx="21" cy="241" r="2.6" fill="#00f0ff"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:/muieblackcat&quot;</text><circle cx="21" cy="262" r="2.6" fill="#00f0ff"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Info</text>
+    </g>
+    </g><g transform="translate(498, 361)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="255" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Advanced Google Hacking Dorks</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Info:example.com filetype:conf conf</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Info:example.com</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:phpmyadmin inurl:server_privileges OR intitle:&quot;login</text><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">for server * at”</text><circle cx="21" cy="132" r="2.6" fill="#f59e0b"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Info:example.com allinurl:config</text><circle cx="21" cy="153" r="2.6" fill="#f59e0b"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Info:example.com allinurl:admin</text><circle cx="21" cy="174" r="2.6" fill="#f59e0b"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:targetwebsite.com inurl:/phpmyadmin/* ext:sql</text><text x="34" y="195" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ext:sql.gz ext:sql.bz2 ext:sql&quot;</text><circle cx="21" cy="212" r="2.6" fill="#f59e0b"/><text x="34" y="216" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;site:urlscan.io+\&quot;activity\&quot;&quot;</text>
+    </g>
+    </g><g transform="translate(0, 415)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="402" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Phonebook</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle: \&quot;Index of\&quot; .ssh/id_rsa&quot;</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phonebook:+&quot;phone number&quot; OR &quot;cell number&quot;</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phonebook:example.com</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intext:\&quot;Fill out the form below completely to change your</text><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">password</text><circle cx="21" cy="153" r="2.6" fill="#10b981"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">and user name. If new username is left blank, your old one</text><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">will be</text><circle cx="21" cy="191" r="2.6" fill="#10b981"/><text x="34" y="195" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phonebook:+&quot;firstname lastname&quot; OR &quot;lastname firstname&quot;</text><circle cx="21" cy="212" r="2.6" fill="#10b981"/><text x="34" y="216" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Phonebook:john smith site:example.com</text><circle cx="21" cy="233" r="2.6" fill="#10b981"/><text x="34" y="237" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">assumed.\&quot; edu&quot;</text><circle cx="21" cy="254" r="2.6" fill="#10b981"/><text x="34" y="258" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;filetype: .log intext:password&quot;</text><circle cx="21" cy="275" r="2.6" fill="#10b981"/><text x="34" y="279" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:twiki bin view/TWiki/WebHome&quot;</text><circle cx="21" cy="296" r="2.6" fill="#10b981"/><text x="34" y="300" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;intitle:\&quot;Please login with admin pass\&quot;&quot;</text><circle cx="21" cy="317" r="2.6" fill="#10b981"/><text x="34" y="321" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;inurl:/vpn/tmindex.html&quot;</text><circle cx="21" cy="338" r="2.6" fill="#10b981"/><text x="34" y="342" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Map:example.com</text><circle cx="21" cy="359" r="2.6" fill="#10b981"/><text x="34" y="363" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Map:example.com site:mapquest.com</text>
+    </g>
+    </g><g transform="translate(996, 444)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Map</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Map:example.com inurl:map</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Map:example.com intitle:map</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Link:example.com</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Link:example.com &quot;link directory&quot;</text>
+    </g>
+    </g><g transform="translate(1494, 604)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Link</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Link:example.com inurl:directory</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Link:example.com site:blogspot.com</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1077.0, 1070)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

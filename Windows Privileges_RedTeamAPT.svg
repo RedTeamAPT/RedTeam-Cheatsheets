@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 1845" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="1845" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="1845" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 922.5)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="461.25" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="922.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1383.75" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">WINDOWS PRIVILEGES</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="673.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="350.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">With this privilege, the user can initiate a process to replace the default</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Replace a process-level token.</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">token associated with a started subprocess.</text>
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeAssignPrimaryTokenPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create symbolic links.</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Can reveal security flaws in programmes that are not built to</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">handle symbolic connections.</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#10b981"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeCreateSymbolicLinkPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by NtCreatePagingFile, which is the function used to</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">create a new paging file.</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create a pagefile.</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeCreatePagefilePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Increase a process working set.</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To raise the minimal working set, SetProcessWorkingSetSize</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">must be called.</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeIncreaseWorkingSetPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by the process manager and is required to raise the</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">priority of a process.</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Increase scheduling priority.</text>
+    </g>
+    </g><g transform="translate(0, 134)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeIncreaseBasePriorityPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">When using NtQuerySystemInformation to obtain information for</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">a</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">specific process, Superfetch and the prefetcher check this</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">value.</text><circle cx="21" cy="128" r="2.6" fill="#ec4899"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Profile single process.</text>
+    </g>
+    </g><g transform="translate(498, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeProfileSingleProcessPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by NtLockVirtualMemory, the kernel implementation of</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">VirtualLock.</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Lock pages in memory.</text>
+    </g>
+    </g><g transform="translate(996, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="192" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeLockMemoryPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">NtShutdownSystem and NtRaiseHardError, which display a system</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by the SRM when raising the integrity level of an</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">object owned by another user.</text><circle cx="21" cy="111" r="2.6" fill="#00f0ff"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Modify an object label.</text><circle cx="21" cy="132" r="2.6" fill="#00f0ff"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">error dialogue box on the interactive terminal, are used to</text><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">check for</text>
+    </g>
+    </g><g transform="translate(1494, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeRelabelPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shutdown the system.</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">problems.</text>
+    </g>
+    </g><g transform="translate(1992, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="192" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#10b981"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeShutdownPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by NtCreateProfile, the function used to perform</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">profiling of</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Profile system performance.</text><circle cx="21" cy="111" r="2.6" fill="#10b981"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the system. This is used by the Kernprof tool, for example.</text><circle cx="21" cy="132" r="2.6" fill="#10b981"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The Credential Management checks to see if it can trust the</text><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">caller with</text>
+    </g>
+    </g><g transform="translate(1494, 285)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#ef4444"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeSystemProfilePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Access Credential Manager as a trusted caller.</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">unencrypted access to credentials.</text>
+    </g>
+    </g><g transform="translate(498, 302)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="299.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="163.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeTrustedCredManAccessPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by the object manager when creating a permanent</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">object.</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create permanent shared objects.</text>
+    </g>
+    </g><g transform="translate(0, 323)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeCreatePermanentPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Generate security audit.</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">With this privilege, the user can add entries to the security</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">log.</text>
+    </g>
+    </g><g transform="translate(996, 361)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="234" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="172.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="100.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeAuditPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enforced when changing a process’s working set thresholds, a</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">process’s paged and nonpaged pool quotas, and a process’s CPU</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Allows a process to create a token which it can then use to</text><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">get access to</text><circle cx="21" cy="132" r="2.6" fill="#3b82f6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rate quota.</text><circle cx="21" cy="153" r="2.6" fill="#3b82f6"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Adjust memory quotas for a process.</text><circle cx="21" cy="174" r="2.6" fill="#3b82f6"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">any local resources when the process uses NtCreateToken() or</text><text x="34" y="195" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">other</text>
+    </g>
+    </g><g transform="translate(1992, 361)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeIncreaseQuotaPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create a token object.</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">token-creation APIs.</text>
+    </g>
+    </g><g transform="translate(1494, 419)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeCreateTokenPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by the SAM on a domain controller when creating a</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">machine account in a domain.</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Add workstations to the domain.</text>
+    </g>
+    </g><g transform="translate(498, 453)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="272" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#10b981"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeMachineAccountPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This privilege causes the system to grant all write access</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">control to any</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">file, regardless of the ACL specified for the file. Any</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">access request other</text><circle cx="21" cy="128" r="2.6" fill="#10b981"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Load and unload device drivers.</text><circle cx="21" cy="149" r="2.6" fill="#10b981"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">than write is still evaluated with the ACL.</text><circle cx="21" cy="170" r="2.6" fill="#10b981"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Winlogon checks that remote callers of the</text><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">InitiateSystemShutdown function have this privilege.</text><circle cx="21" cy="208" r="2.6" fill="#10b981"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Force shutdown from a remote system.</text><circle cx="21" cy="229" r="2.6" fill="#10b981"/><text x="34" y="233" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeLoadDriverPrivilege</text>
+    </g>
+    </g><g transform="translate(0, 474)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="196" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="248.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="138.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeRemoteShutdownPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Debug programs.</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Required to debug and adjust the memory of a process owned by</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">another account.</text><circle cx="21" cy="111" r="2.6" fill="#ef4444"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Required to change the time or date.</text><circle cx="21" cy="132" r="2.6" fill="#ef4444"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Change the system time.</text><circle cx="21" cy="153" r="2.6" fill="#ef4444"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeDebugPrivilege</text>
+    </g>
+    </g><g transform="translate(1992, 495)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="209" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeSystemtimePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">With this privilege, the user can specify object access</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">auditing options</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Determines which users can connect to the device from the</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">network</text><circle cx="21" cy="128" r="2.6" fill="#8b5cf6"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Access this computer from the network</text><circle cx="21" cy="149" r="2.6" fill="#8b5cf6"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">for individual resources, such as files, Active Directory</text><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">objects, and</text>
+    </g>
+    </g><g transform="translate(1494, 570)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeNetworkLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">registry keys.</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Manage auditing and security log.</text>
+    </g>
+    </g><g transform="translate(996, 613)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeSecurityPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users can start an</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">interactive session on the device</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Allow log on locally</text>
+    </g>
+    </g><g transform="translate(0, 688)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="230" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeInteractiveLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This user right allows a process to impersonate any user</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">without</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">authentication. The process can therefore gain access to the</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">same local</text><circle cx="21" cy="128" r="2.6" fill="#00f0ff"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">resources as that user.</text><circle cx="21" cy="149" r="2.6" fill="#00f0ff"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Act as part of the operating system.</text><circle cx="21" cy="170" r="2.6" fill="#00f0ff"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users or groups can</text><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">access the</text>
+    </g>
+    </g><g transform="translate(1494, 704)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeTcbPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sign-in screen of a remote device through a Remote Desktop</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Services</text><circle cx="21" cy="90" r="2.6" fill="#f59e0b"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">connection.</text><circle cx="21" cy="111" r="2.6" fill="#f59e0b"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Allow log on through Remote Desktop Services</text>
+    </g>
+    </g><g transform="translate(1992, 722)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="272" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="282.5" height="32" rx="7" fill="#10b981"/>
+      <text x="155.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeRemoteInteractiveLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">With this privilege, the user can bypass file and directory,</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">registry, and</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">other persistent object permissions for the purposes of</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">backing up the</text><circle cx="21" cy="128" r="2.6" fill="#10b981"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">system.</text><circle cx="21" cy="149" r="2.6" fill="#10b981"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Backup file and directories.</text><circle cx="21" cy="170" r="2.6" fill="#10b981"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users can create global</text><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">objects that are available to all sessions</text><circle cx="21" cy="208" r="2.6" fill="#10b981"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create global objects</text><circle cx="21" cy="229" r="2.6" fill="#10b981"/><text x="34" y="233" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeBackupPrivilege</text>
+    </g>
+    </g><g transform="translate(498, 743)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="255" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeCreateGlobalPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enforced by file system drivers during a volume open</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">operation, which</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This security setting determines which users are prevented</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">from</text><circle cx="21" cy="128" r="2.6" fill="#ef4444"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Perform volume maintenance tasks.</text><circle cx="21" cy="149" r="2.6" fill="#ef4444"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">is required to perform disk-checking.</text><circle cx="21" cy="170" r="2.6" fill="#ef4444"/><text x="34" y="174" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">accessing a device over the network</text><circle cx="21" cy="191" r="2.6" fill="#ef4444"/><text x="34" y="195" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Deny access to this computer from the network</text><circle cx="21" cy="212" r="2.6" fill="#ef4444"/><text x="34" y="216" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeManageVolumePrivilege</text>
+    </g>
+    </g><g transform="translate(996, 764)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="272" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDenyNetworkLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Grant access to any file or directory, regardless of the</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">security</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which accounts are prevented</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">from</text><circle cx="21" cy="128" r="2.6" fill="#8b5cf6"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">descriptor that’s present: WRITE_DAC, WRITE_OWNER,</text><circle cx="21" cy="149" r="2.6" fill="#8b5cf6"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">logging on by using a batch-queue tool to schedule and start</text><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">jobs</text><circle cx="21" cy="187" r="2.6" fill="#8b5cf6"/><text x="34" y="191" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ACCESS_SYSTEM_SECURITY, FILE_GENERIC_WRITE, FILE_ADD_FILE,</text><circle cx="21" cy="208" r="2.6" fill="#8b5cf6"/><text x="34" y="212" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">automatically in the future</text><circle cx="21" cy="229" r="2.6" fill="#8b5cf6"/><text x="34" y="233" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Deny log on as a batch job</text>
+    </g>
+    </g><g transform="translate(1494, 876)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDenyBatchLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Restore files and directories.</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">FILE_ADD_SUBDIRECTORY and DELETE.</text>
+    </g>
+    </g><g transform="translate(0, 936)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="217" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="189.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="108.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeRestorePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users are prevented from</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">logging</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Change the time zone.</text><circle cx="21" cy="111" r="2.6" fill="#3b82f6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Required to change the time zone.</text><circle cx="21" cy="132" r="2.6" fill="#3b82f6"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">on to the service applications on a device</text><circle cx="21" cy="153" r="2.6" fill="#3b82f6"/><text x="34" y="157" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Deny log on as a service</text><circle cx="21" cy="174" r="2.6" fill="#3b82f6"/><text x="34" y="178" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeTimeZonePrivilege</text>
+    </g>
+    </g><g transform="translate(1494, 1010)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#00f0ff"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDenyServiceLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Bypass traverse checking.</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Avoid checking permissions on intermediate directories of a</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">multilevel directory lookup.</text><circle cx="21" cy="111" r="2.6" fill="#00f0ff"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users are prevented from</text><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">logging</text>
+    </g>
+    </g><g transform="translate(1992, 1012)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="231.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="129.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeChangeNotifyPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Deny log on locally</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">on directly at the device&apos;s console</text>
+    </g>
+    </g><g transform="translate(498, 1016)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="209" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="265.5" height="32" rx="7" fill="#10b981"/>
+      <text x="146.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDenyInteractiveLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">With this privilege, the user can set the Trusted for</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Delegation setting</text><circle cx="21" cy="90" r="2.6" fill="#10b981"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enable computer and user accounts to be trusted for</text><text x="34" y="111" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">delegation.</text><circle cx="21" cy="128" r="2.6" fill="#10b981"/><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">on a user or computer object.</text><circle cx="21" cy="149" r="2.6" fill="#10b981"/><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which users are prevented from</text><text x="34" y="170" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">logging</text>
+    </g>
+    </g><g transform="translate(996, 1054)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="265.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="146.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeEnableDelegationPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">on to the device through a Remote Desktop connection through</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Remote Desktop Services</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Deny log on through Remote Desktop Services</text>
+    </g>
+    </g><g transform="translate(1992, 1146)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="171" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="316.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="172.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDenyRemoteInteractiveLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Required to use the LDAP directory synchronization services.</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">It allows</text><circle cx="21" cy="90" r="2.6" fill="#8b5cf6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Synchronize directory service data.</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the holder to read all objects and properties in the</text><text x="34" y="132" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">directory.</text>
+    </g>
+    </g><g transform="translate(0, 1171)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#ec4899"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeSyncAgentPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which accounts can sign in by</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">using a</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">batch-queue tool such as the Task Scheduler service</text><circle cx="21" cy="111" r="2.6" fill="#ec4899"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log on as a batch job</text>
+    </g>
+    </g><g transform="translate(1494, 1199)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeBatchLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">his privilege allows the owner value to be set only to those</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">values that</text><circle cx="21" cy="90" r="2.6" fill="#3b82f6"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Take ownership of files and other objects.</text><circle cx="21" cy="111" r="2.6" fill="#3b82f6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the holder may legitimately assign as the owner of an object.</text>
+    </g>
+    </g><g transform="translate(996, 1209)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="240.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="134.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeTakeOwnershipPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which service accounts can</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">register a process as a service</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log on as a service</text>
+    </g>
+    </g><g transform="translate(498, 1243)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#f59e0b"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeServiceLogonRight</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Impersonate a client after authentication.</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">With this privilege, the user can impersonate other accounts.</text>
+    </g>
+    </g><g transform="translate(1992, 1335)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="192" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#10b981"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeImpersonatePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">This policy setting determines which programs are allowed to</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">impersonate a user or another specified account and act on</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">behalf of</text><circle cx="21" cy="111" r="2.6" fill="#10b981"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">the user</text><circle cx="21" cy="132" r="2.6" fill="#10b981"/><text x="34" y="136" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Obtain an impersonation token for another user in the same</text><text x="34" y="153" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">session</text>
+    </g>
+    </g><g transform="translate(0, 1343)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="384.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="206.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeDelegateSessionUserImpersonatePrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Required to modify the nonvolatile RAM of systems that use</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">this type</text><circle cx="21" cy="90" r="2.6" fill="#ef4444"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Modify firmware environment variables.</text><circle cx="21" cy="111" r="2.6" fill="#ef4444"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">of memory to store configuration information.</text>
+    </g>
+    </g><g transform="translate(996, 1360)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="274.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="151.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SeSystemEnvironmentPrivilege</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Remove computer from a docking station.</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Checked by the user-mode Plug and Play manager when a</text><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">computer undock is initiated.</text><circle cx="21" cy="111" r="2.6" fill="#8b5cf6"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SeUndockPrivilege</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 1780)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

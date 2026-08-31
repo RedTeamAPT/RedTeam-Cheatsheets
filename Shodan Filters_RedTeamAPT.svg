@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2652 1747" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="2652" height="1747" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="2652" height="1747" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 1326.0 873.5)" opacity="0.035" pointer-events="none">
+    <text x="1326.0" y="436.75" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="873.5" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="1326.0" y="1310.25" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(1326.0, 75)">
+    <rect x="-400.0" y="-46.0" width="800" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">SHODAN FILTERS</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="133" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">tag</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">The following filters are only available to users of higher</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">API plans.</text><circle cx="21" cy="90" r="2.6" fill="#00f0ff"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">vuln</text>
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Restricted</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin.ip</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin.ip_count</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="389" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Bitcoin</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin.port</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">bitcoin.version</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.html_hash</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.robots_hash</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.html</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.securitytxt</text><circle cx="21" cy="178" r="2.6" fill="#10b981"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.headers_hash</text><circle cx="21" cy="199" r="2.6" fill="#10b981"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.status</text><circle cx="21" cy="220" r="2.6" fill="#10b981"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.favicon.hash</text><circle cx="21" cy="241" r="2.6" fill="#10b981"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">snmp.contact</text><circle cx="21" cy="262" r="2.6" fill="#10b981"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.title</text><circle cx="21" cy="283" r="2.6" fill="#10b981"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.component_category</text><circle cx="21" cy="304" r="2.6" fill="#10b981"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">snmp.location</text><circle cx="21" cy="325" r="2.6" fill="#10b981"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.waf</text><circle cx="21" cy="346" r="2.6" fill="#10b981"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.component</text>
+    </g>
+    </g><g transform="translate(1494, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="95" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SNMP</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">snmp.name</text>
+    </g>
+    </g><g transform="translate(1992, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="200" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">HTTP</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.serial</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.pubkey.type</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cloud.provider</text><circle cx="21" cy="115" r="2.6" fill="#8b5cf6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.subject.cn</text><circle cx="21" cy="136" r="2.6" fill="#8b5cf6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.pubkey.bits</text><circle cx="21" cy="157" r="2.6" fill="#8b5cf6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cloud.region</text>
+    </g>
+    </g><g transform="translate(1494, 113)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="242" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Cloud</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.chain_count</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.issuer.cn</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cloud.service</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cipher.bits</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.fingerprint</text><circle cx="21" cy="157" r="2.6" fill="#ec4899"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">screenshot.hash</text><circle cx="21" cy="178" r="2.6" fill="#ec4899"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cipher.name</text><circle cx="21" cy="199" r="2.6" fill="#ec4899"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.extension</text>
+    </g>
+    </g><g transform="translate(498, 134)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="410" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#3b82f6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Screenshots</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">screenshot.label</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cipher.version</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.expired</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ip</text><circle cx="21" cy="136" r="2.6" fill="#3b82f6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.ja3s</text><circle cx="21" cy="157" r="2.6" fill="#3b82f6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.cert.alg</text><circle cx="21" cy="178" r="2.6" fill="#3b82f6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">isp</text><circle cx="21" cy="199" r="2.6" fill="#3b82f6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hostname</text><circle cx="21" cy="220" r="2.6" fill="#3b82f6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.jarm</text><circle cx="21" cy="241" r="2.6" fill="#3b82f6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.alpn</text><circle cx="21" cy="262" r="2.6" fill="#3b82f6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">link</text><circle cx="21" cy="283" r="2.6" fill="#3b82f6"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">hash</text><circle cx="21" cy="304" r="2.6" fill="#3b82f6"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl.version</text><circle cx="21" cy="325" r="2.6" fill="#3b82f6"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl</text><circle cx="21" cy="346" r="2.6" fill="#3b82f6"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">net</text><circle cx="21" cy="367" r="2.6" fill="#3b82f6"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">has_vuln</text>
+    </g>
+    </g><g transform="translate(0, 151)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="242" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">SSL</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">has_ssl</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ntp.ip</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">os</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">has_screenshot</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ntp.ip_count</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">has_ipv6</text>
+    </g>
+    </g><g transform="translate(1992, 218)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="368" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">NTP</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ntp.more</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">postal</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">geo</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ntp.port</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">product</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">device</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telnet.do</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">region</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">cpe</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telnet.dont</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">scan</text><circle cx="21" cy="283" r="2.6" fill="#f59e0b"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">country</text><circle cx="21" cy="304" r="2.6" fill="#f59e0b"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telnet.option</text><circle cx="21" cy="325" r="2.6" fill="#f59e0b"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">sudo pip install shodan</text>
+    </g>
+    </g><g transform="translate(1494, 373)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="347" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Telnet</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">shodan.module</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">city</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telnet.will</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Took the API key from my shodan web account</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">state</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">asn</text><circle cx="21" cy="178" r="2.6" fill="#10b981"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">telnet.wont</text><circle cx="21" cy="199" r="2.6" fill="#10b981"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">shodan init &lt;API-KEY&gt;</text><circle cx="21" cy="220" r="2.6" fill="#10b981"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">version</text><circle cx="21" cy="241" r="2.6" fill="#10b981"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">all</text><circle cx="21" cy="262" r="2.6" fill="#10b981"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssh.hassh</text><circle cx="21" cy="283" r="2.6" fill="#10b981"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Installation</text><circle cx="21" cy="304" r="2.6" fill="#10b981"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SSH</text>
+    </g>
+    </g><g transform="translate(996, 407)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">General</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssh.type</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shows general information about your account</text>
+    </g>
+    </g><g transform="translate(0, 411)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="368" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Common Filters</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">info</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Initialize the Shodan command-line</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">View all available information for an IP...</text><circle cx="21" cy="115" r="2.6" fill="#8b5cf6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">init</text><circle cx="21" cy="136" r="2.6" fill="#8b5cf6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">host</text><circle cx="21" cy="157" r="2.6" fill="#8b5cf6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find MongoDB database servers</text><circle cx="21" cy="178" r="2.6" fill="#8b5cf6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find Mongo Express Web GUI</text><circle cx="21" cy="199" r="2.6" fill="#8b5cf6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Set-Cookie: mongo-express=&quot; &quot;200 OK&quot;</text><circle cx="21" cy="220" r="2.6" fill="#8b5cf6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Print your external IP address</text><circle cx="21" cy="241" r="2.6" fill="#8b5cf6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Check whether the IP is a honeypot or not.</text><circle cx="21" cy="262" r="2.6" fill="#8b5cf6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find MySQL-powered databases</text><circle cx="21" cy="283" r="2.6" fill="#8b5cf6"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">mysql port:&quot;3306&quot;</text><circle cx="21" cy="304" r="2.6" fill="#8b5cf6"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">myip</text><circle cx="21" cy="325" r="2.6" fill="#8b5cf6"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">honeyscore</text>
+    </g>
+    </g><g transform="translate(996, 541)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="536" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Databases</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To lookup popular ElasticSearch-powered instances</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:&quot;9200&quot; all:&quot;elastic indices&quot;</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Manage your organization&apos;s access to Shodan</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Download search results and save them in a...</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look up PostgreSQL databases</text><circle cx="21" cy="157" r="2.6" fill="#ec4899"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:5432 PostgreSQL</text><circle cx="21" cy="178" r="2.6" fill="#ec4899"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">org</text><circle cx="21" cy="199" r="2.6" fill="#ec4899"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">download</text><circle cx="21" cy="220" r="2.6" fill="#ec4899"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">For FTP, querying for proftpd, a popular FTP server</text><circle cx="21" cy="241" r="2.6" fill="#ec4899"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">proftpd port:21</text><circle cx="21" cy="262" r="2.6" fill="#ec4899"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Extract information out of compressed JSON...</text><circle cx="21" cy="283" r="2.6" fill="#ec4899"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">View all available information for a domain</text><circle cx="21" cy="304" r="2.6" fill="#ec4899"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look for FTP servers that allow anonymous logins</text><circle cx="21" cy="325" r="2.6" fill="#ec4899"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;220&quot; &quot;230 Login successful.&quot; port:21</text><circle cx="21" cy="346" r="2.6" fill="#ec4899"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">parse</text><circle cx="21" cy="367" r="2.6" fill="#ec4899"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">domain</text><circle cx="21" cy="388" r="2.6" fill="#ec4899"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To query for OpenSSH, a popular SSH server</text><circle cx="21" cy="409" r="2.6" fill="#ec4899"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openssh port:22</text><circle cx="21" cy="430" r="2.6" fill="#ec4899"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Real-Time Map of some results as Shodan finds...</text><circle cx="21" cy="451" r="2.6" fill="#ec4899"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Bulk data access to Shodan</text><circle cx="21" cy="472" r="2.6" fill="#ec4899"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">For Telnet, querying for port 23</text><circle cx="21" cy="493" r="2.6" fill="#ec4899"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:&quot;23&quot;</text>
+    </g>
+    </g><g transform="translate(498, 562)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="427" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#3b82f6"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Exposed Ports</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">radar</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">data</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look up EXIM-powered mail servers on port 25</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:&quot;25&quot; product:&quot;exim&quot;</text><circle cx="21" cy="136" r="2.6" fill="#3b82f6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Scan an IP/ netblock using Shodan.</text><circle cx="21" cy="157" r="2.6" fill="#3b82f6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Returns the number of results for a search</text><circle cx="21" cy="178" r="2.6" fill="#3b82f6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find Memchad commonly on port 11211 for UDP amplification</text><circle cx="21" cy="199" r="2.6" fill="#3b82f6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:&quot;11211&quot; product:&quot;Memcached&quot;</text><circle cx="21" cy="220" r="2.6" fill="#3b82f6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Jenkins is a starting point of any software being built for</text><text x="34" y="241" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">release</text><circle cx="21" cy="258" r="2.6" fill="#3b82f6"/><text x="34" y="262" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;X-Jenkins&quot; &quot;Set-Cookie: JSESSIONID&quot; http.title:&quot;Dashboard&quot;</text><circle cx="21" cy="279" r="2.6" fill="#3b82f6"/><text x="34" y="283" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">scan</text><circle cx="21" cy="300" r="2.6" fill="#3b82f6"/><text x="34" y="304" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">count</text><circle cx="21" cy="321" r="2.6" fill="#3b82f6"/><text x="34" y="325" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find devices running a specific version of a RouterOS</text><circle cx="21" cy="342" r="2.6" fill="#3b82f6"/><text x="34" y="346" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">port:8291 os:&quot;MikroTik RouterOS 6.45.9&quot;</text><circle cx="21" cy="363" r="2.6" fill="#3b82f6"/><text x="34" y="367" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Search the Shodan database</text><circle cx="21" cy="384" r="2.6" fill="#3b82f6"/><text x="34" y="388" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Convert the given input data file into a...</text>
+    </g>
+    </g><g transform="translate(1992, 604)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="242" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="223.0" height="32" rx="7" fill="#00f0ff"/>
+      <text x="125.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Network Infrastructure</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">search</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">convert</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Specific version of the popular web server Apache</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">product:&quot;Apache httpd&quot; port:&quot;80&quot;</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Provide summary information about a search...</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Manage the network alerts for yout account</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look up Microsoft IIS-powered websites and web servers</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">product:&quot;Microsoft IIS httpd&quot;</text>
+    </g>
+    </g><g transform="translate(1494, 738)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="326" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#f59e0b"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Web servers</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">stats</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">alert</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look up Nginx-powered websites and web servers</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">product:&quot;nginx&quot;</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To lookup Nginx-powered web servers on port 8080</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;port: 8080&quot; product:&quot;nginx&quot;</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Stream data in real-time.</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Help</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">For outdated and insecure webcam software</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Server: SQ-WEBCAM</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">stream</text><circle cx="21" cy="283" r="2.6" fill="#f59e0b"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-h</text>
+    </g>
+    </g><g transform="translate(0, 797)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#10b981"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Webcams</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">For specific software vendors for e.g.- Yawcam</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Server: yawcam&quot; &quot;Mime-Type: text/html&quot;</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Basic</text>
+    </g>
+    </g><g transform="translate(1992, 864)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Web Based</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find XZERES Wind Turbines</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">title:&quot;xzeres wind&quot;</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Print your extrernal IP address</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">shodan myip</text>
+    </g>
+    </g><g transform="translate(0, 952)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="257.0" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="142.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Industrial control systems</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Find electric vehicle chargers on Shodan</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Server: gSOAP/2.8&quot; &quot;Content-Length: 583&quot;</text>
+    </g>
+    </g><g transform="translate(498, 1007)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ec4899"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Myip</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To look up open Windows Remote Desktop ports</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">remote desktop &quot;port:3389&quot;</text>
+    </g>
+    </g><g transform="translate(1992, 1040)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="347" rx="10"
+            fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#3b82f6"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Remote Desktop</text>
+      <circle cx="21" cy="52" r="2.6" fill="#3b82f6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Show information about a specific alert</text><circle cx="21" cy="73" r="2.6" fill="#3b82f6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Devices with VNC available without authentication</text><circle cx="21" cy="94" r="2.6" fill="#3b82f6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;authentication disabled&quot; &quot;RFB 003.008&quot;</text><circle cx="21" cy="115" r="2.6" fill="#3b82f6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Enable a trigger for the alert</text><circle cx="21" cy="136" r="2.6" fill="#3b82f6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">info</text><circle cx="21" cy="157" r="2.6" fill="#3b82f6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Find devices running on the Samba protocol on port 445 with</text><circle cx="21" cy="178" r="2.6" fill="#3b82f6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">enable</text><circle cx="21" cy="199" r="2.6" fill="#3b82f6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">authentication disabled</text><circle cx="21" cy="220" r="2.6" fill="#3b82f6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Authentication: disabled&quot; port:445</text><circle cx="21" cy="241" r="2.6" fill="#3b82f6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">List all the active alerts</text><circle cx="21" cy="262" r="2.6" fill="#3b82f6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Plex devices can be found using</text><circle cx="21" cy="283" r="2.6" fill="#3b82f6"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;X-Plex-Protocol&quot; &quot;200 OK&quot; port:32400</text><circle cx="21" cy="304" r="2.6" fill="#3b82f6"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Disable a trigger for the alert</text>
+    </g>
+    </g><g transform="translate(1494, 1082)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="305" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">NAS Accesses</text>
+      <circle cx="21" cy="52" r="2.6" fill="#00f0ff"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">list</text><circle cx="21" cy="73" r="2.6" fill="#00f0ff"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Some NAS devices have FTP-based services running on them</text><circle cx="21" cy="94" r="2.6" fill="#00f0ff"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;220&quot; &quot;230 Login successful.&quot; port:21</text><circle cx="21" cy="115" r="2.6" fill="#00f0ff"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">disable</text><circle cx="21" cy="136" r="2.6" fill="#00f0ff"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Remove the specified alert</text><circle cx="21" cy="157" r="2.6" fill="#00f0ff"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find HP-powered printers</text><circle cx="21" cy="178" r="2.6" fill="#00f0ff"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Serial Number:&quot; &quot;Built:&quot; &quot;Server: HP HTTP&quot;</text><circle cx="21" cy="199" r="2.6" fill="#00f0ff"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Create a network alert to monitor an external...</text><circle cx="21" cy="220" r="2.6" fill="#00f0ff"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">remove</text><circle cx="21" cy="241" r="2.6" fill="#00f0ff"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">To find EPSON powered printers</text><circle cx="21" cy="262" r="2.6" fill="#00f0ff"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;SERVER: EPSON_Linux UPnP&quot; &quot;200 OK&quot;</text>
+    </g>
+    </g><g transform="translate(0, 1086)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="200" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Printers and Copiers</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">create</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">List the available notification triggers</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Xerox printers and copiers using SSL certificates</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ssl:&quot;Xerox Generic Root&quot;</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Remove all alerts</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00&quot;</text>
+    </g>
+    </g><g transform="translate(996, 1095)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="158" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="206.0" height="32" rx="7" fill="#10b981"/>
+      <text x="117.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Windows RDP Password</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">triggers</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">clear</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;X-Recruiting:&quot;</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Manage the network alerts for your account</text>
+    </g>
+    </g><g transform="translate(498, 1141)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="116" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#ef4444"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Hiring</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;Android Debug Bridge&quot; &quot;Device&quot; port:5555</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shodan alert</text>
+    </g>
+    </g><g transform="translate(996, 1271)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="137" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="197.5" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="112.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Android Root Bridge</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">screenshot.label</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">&quot;ETH - Total speed&quot;</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Screenshots</text>
+    </g>
+    </g><g transform="translate(498, 1275)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="154" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="163.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="95.75" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Etherium Miners</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">http.title:&quot;Tesla PowerPack System&quot; http.component:&quot;d3&quot;</text><text x="34" y="73" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">-ga3ca4f2</text><circle cx="21" cy="90" r="2.6" fill="#ec4899"/><text x="34" y="94" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">CLI Based</text><circle cx="21" cy="111" r="2.6" fill="#ec4899"/><text x="34" y="115" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Tesla Powerpack charging Status</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(1326.0, 1682)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>

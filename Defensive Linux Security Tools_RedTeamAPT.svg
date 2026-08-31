@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1656 1324" width="100%" height="100%">
+  <defs>
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#080c1d"/>
+      <stop offset="100%" stop-color="#020306"/>
+    </linearGradient>
+    <linearGradient id="brand-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      text { font-family: 'Inter', -apple-system, sans-serif; }
+      .code-font { font-family: 'Fira Code', monospace; }
+    </style>
+  </defs>
+  <rect width="1656" height="1324" fill="url(#canvas-bg)"/>
+  <g opacity="0.03" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+    <rect width="1656" height="1324" fill="url(#grid)"/>
+  </g>
+  <g transform="rotate(-25 828.0 662.0)" opacity="0.035" pointer-events="none">
+    <text x="828.0" y="331.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="828.0" y="662.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+    <text x="828.0" y="993.0" text-anchor="middle" font-family="monospace" font-weight="900" font-size="110" fill="#ffffff" letter-spacing="16px">REDTEAMAPT.IR</text>
+  </g>
+
+  <g transform="translate(828.0, 75)">
+    <rect x="-490.0" y="-46.0" width="980" height="92" rx="18" fill="#0c1224" stroke="url(#brand-grad)" stroke-width="2.5"/>
+    <text x="0" y="2" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="800" fill="#ffffff">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="22"> | </tspan>
+      <tspan fill="#38bdf8">DEFENSIVE LINUX SECURITY TOOLS</tspan>
+    </text>
+    <text x="0" y="26" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="3px">ADVANCED OFFENSIVE CYBERSECURITY &amp; RED TEAM ROADMAP</text>
+  </g>
+
+  <g transform="translate(90, 170)">
+    <g transform="translate(0, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="74" rx="10"
+            fill="none" stroke="#00f0ff" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#00f0ff"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Firewalls</text>
+      
+    </g>
+    </g><g transform="translate(498, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="410" rx="10"
+            fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="155.0" height="32" rx="7" fill="#f59e0b"/>
+      <text x="91.5" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Security Audit</text>
+      <circle cx="21" cy="52" r="2.6" fill="#f59e0b"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">iptables</text><circle cx="21" cy="73" r="2.6" fill="#f59e0b"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openSCAP</text><circle cx="21" cy="94" r="2.6" fill="#f59e0b"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Firewalld</text><circle cx="21" cy="115" r="2.6" fill="#f59e0b"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">openVAS</text><circle cx="21" cy="136" r="2.6" fill="#f59e0b"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ufw</text><circle cx="21" cy="157" r="2.6" fill="#f59e0b"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Nmap</text><circle cx="21" cy="178" r="2.6" fill="#f59e0b"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Guarddog</text><circle cx="21" cy="199" r="2.6" fill="#f59e0b"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Nikto</text><circle cx="21" cy="220" r="2.6" fill="#f59e0b"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Vuurmuur</text><circle cx="21" cy="241" r="2.6" fill="#f59e0b"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Lynis</text><circle cx="21" cy="262" r="2.6" fill="#f59e0b"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gufw</text><circle cx="21" cy="283" r="2.6" fill="#f59e0b"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SpiderFoot</text><circle cx="21" cy="304" r="2.6" fill="#f59e0b"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Shorewall</text><circle cx="21" cy="325" r="2.6" fill="#f59e0b"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">IPS</text><circle cx="21" cy="346" r="2.6" fill="#f59e0b"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Sandboxing</text><circle cx="21" cy="367" r="2.6" fill="#f59e0b"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Access Control</text>
+    </g>
+    </g><g transform="translate(996, 0)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="620" rx="10"
+            fill="none" stroke="#10b981" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="180.5" height="32" rx="7" fill="#10b981"/>
+      <text x="104.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Malware Detection</text>
+      <circle cx="21" cy="52" r="2.6" fill="#10b981"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Snort</text><circle cx="21" cy="73" r="2.6" fill="#10b981"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Bubblewrap</text><circle cx="21" cy="94" r="2.6" fill="#10b981"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SELinux</text><circle cx="21" cy="115" r="2.6" fill="#10b981"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">wazuh</text><circle cx="21" cy="136" r="2.6" fill="#10b981"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Suricata</text><circle cx="21" cy="157" r="2.6" fill="#10b981"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Firejail</text><circle cx="21" cy="178" r="2.6" fill="#10b981"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">AppArmor</text><circle cx="21" cy="199" r="2.6" fill="#10b981"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">chkrootkit</text><circle cx="21" cy="220" r="2.6" fill="#10b981"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Zeek</text><circle cx="21" cy="241" r="2.6" fill="#10b981"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Flatpak</text><circle cx="21" cy="262" r="2.6" fill="#10b981"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Smack</text><circle cx="21" cy="283" r="2.6" fill="#10b981"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">rkhunter</text><circle cx="21" cy="304" r="2.6" fill="#10b981"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OSSEC</text><circle cx="21" cy="325" r="2.6" fill="#10b981"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Snappy</text><circle cx="21" cy="346" r="2.6" fill="#10b981"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Grsecurity</text><circle cx="21" cy="367" r="2.6" fill="#10b981"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Tiger</text><circle cx="21" cy="388" r="2.6" fill="#10b981"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">AIDE</text><circle cx="21" cy="409" r="2.6" fill="#10b981"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Chroot Jail</text><circle cx="21" cy="430" r="2.6" fill="#10b981"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Yama</text><circle cx="21" cy="451" r="2.6" fill="#10b981"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">LMD</text><circle cx="21" cy="472" r="2.6" fill="#10b981"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Security Onion</text><circle cx="21" cy="493" r="2.6" fill="#10b981"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OSSIM</text><circle cx="21" cy="514" r="2.6" fill="#10b981"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">CrowdSec</text><circle cx="21" cy="535" r="2.6" fill="#10b981"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">File Integrity Monitoring</text><circle cx="21" cy="556" r="2.6" fill="#10b981"/><text x="34" y="560" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Antivirus</text><circle cx="21" cy="577" r="2.6" fill="#10b981"/><text x="34" y="581" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Log Monitoring</text>
+    </g>
+    </g><g transform="translate(0, 92)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="662" rx="10"
+            fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="214.5" height="32" rx="7" fill="#ef4444"/>
+      <text x="121.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Filesystem Encryption</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ef4444"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Tripwire</text><circle cx="21" cy="73" r="2.6" fill="#ef4444"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">CrowdStrike</text><circle cx="21" cy="94" r="2.6" fill="#ef4444"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Logwatch</text><circle cx="21" cy="115" r="2.6" fill="#ef4444"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">dm-crypt</text><circle cx="21" cy="136" r="2.6" fill="#ef4444"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Auditd</text><circle cx="21" cy="157" r="2.6" fill="#ef4444"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ClamAV</text><circle cx="21" cy="178" r="2.6" fill="#ef4444"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ELK Stack</text><circle cx="21" cy="199" r="2.6" fill="#ef4444"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">fscrypt</text><circle cx="21" cy="220" r="2.6" fill="#ef4444"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Samhain</text><circle cx="21" cy="241" r="2.6" fill="#ef4444"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Rspamd</text><circle cx="21" cy="262" r="2.6" fill="#ef4444"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Graylog</text><circle cx="21" cy="283" r="2.6" fill="#ef4444"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">EncFS</text><circle cx="21" cy="304" r="2.6" fill="#ef4444"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OSSEC</text><circle cx="21" cy="325" r="2.6" fill="#ef4444"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Sagan</text><circle cx="21" cy="346" r="2.6" fill="#ef4444"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Veracrypt</text><circle cx="21" cy="367" r="2.6" fill="#ef4444"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Wazuh</text><circle cx="21" cy="388" r="2.6" fill="#ef4444"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Fluentd</text><circle cx="21" cy="409" r="2.6" fill="#ef4444"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Gocryptfs</text><circle cx="21" cy="430" r="2.6" fill="#ef4444"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Osquery</text><circle cx="21" cy="451" r="2.6" fill="#ef4444"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OpenObserve</text><circle cx="21" cy="472" r="2.6" fill="#ef4444"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">eCryptfs</text><circle cx="21" cy="493" r="2.6" fill="#ef4444"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Atomic OSSEC</text><circle cx="21" cy="514" r="2.6" fill="#ef4444"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Dynatrace</text><circle cx="21" cy="535" r="2.6" fill="#ef4444"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SecureFS</text><circle cx="21" cy="556" r="2.6" fill="#ef4444"/><text x="34" y="560" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">WAFs</text><circle cx="21" cy="577" r="2.6" fill="#ef4444"/><text x="34" y="581" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Patch Manager</text><circle cx="21" cy="598" r="2.6" fill="#ef4444"/><text x="34" y="602" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">VPN</text><circle cx="21" cy="619" r="2.6" fill="#ef4444"/><text x="34" y="623" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Password Sec</text>
+    </g>
+    </g><g transform="translate(498, 428)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="578" rx="10"
+            fill="none" stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="140" height="32" rx="7" fill="#8b5cf6"/>
+      <text x="84.0" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Secure Shell</text>
+      <circle cx="21" cy="52" r="2.6" fill="#8b5cf6"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">ModSecurity</text><circle cx="21" cy="73" r="2.6" fill="#8b5cf6"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Spacewalk</text><circle cx="21" cy="94" r="2.6" fill="#8b5cf6"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">strongSwan</text><circle cx="21" cy="115" r="2.6" fill="#8b5cf6"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">John the Ripper</text><circle cx="21" cy="136" r="2.6" fill="#8b5cf6"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SSHGuard</text><circle cx="21" cy="157" r="2.6" fill="#8b5cf6"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">NAXSI</text><circle cx="21" cy="178" r="2.6" fill="#8b5cf6"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Katello</text><circle cx="21" cy="199" r="2.6" fill="#8b5cf6"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">OpenVPN</text><circle cx="21" cy="220" r="2.6" fill="#8b5cf6"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Hashcat</text><circle cx="21" cy="241" r="2.6" fill="#8b5cf6"/><text x="34" y="245" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">DenyHosts</text><circle cx="21" cy="262" r="2.6" fill="#8b5cf6"/><text x="34" y="266" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">BunkerWeb</text><circle cx="21" cy="283" r="2.6" fill="#8b5cf6"/><text x="34" y="287" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">RH Satellite</text><circle cx="21" cy="304" r="2.6" fill="#8b5cf6"/><text x="34" y="308" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">WireGuard</text><circle cx="21" cy="325" r="2.6" fill="#8b5cf6"/><text x="34" y="329" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">KeePassXC</text><circle cx="21" cy="346" r="2.6" fill="#8b5cf6"/><text x="34" y="350" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Knockd</text><circle cx="21" cy="367" r="2.6" fill="#8b5cf6"/><text x="34" y="371" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Coraza</text><circle cx="21" cy="388" r="2.6" fill="#8b5cf6"/><text x="34" y="392" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Landscape</text><circle cx="21" cy="409" r="2.6" fill="#8b5cf6"/><text x="34" y="413" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Libreswan</text><circle cx="21" cy="430" r="2.6" fill="#8b5cf6"/><text x="34" y="434" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">pwgen</text><circle cx="21" cy="451" r="2.6" fill="#8b5cf6"/><text x="34" y="455" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Fail2ban</text><circle cx="21" cy="472" r="2.6" fill="#8b5cf6"/><text x="34" y="476" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">open-appsec</text><circle cx="21" cy="493" r="2.6" fill="#8b5cf6"/><text x="34" y="497" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">NinjaOne</text><circle cx="21" cy="514" r="2.6" fill="#8b5cf6"/><text x="34" y="518" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">SoftEther</text><circle cx="21" cy="535" r="2.6" fill="#8b5cf6"/><text x="34" y="539" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">GoPass</text>
+    </g>
+    </g><g transform="translate(996, 638)">
+    <g class="cat-card">
+      <rect x="0" y="0" width="480" height="263" rx="10"
+            fill="none" stroke="#ec4899" stroke-width="1.6" stroke-dasharray="4,3"/>
+      <rect x="14" y="-16" width="146.5" height="32" rx="7" fill="#ec4899"/>
+      <text x="87.25" y="5" text-anchor="middle"
+            font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" fill="#04060d">Container Sec</text>
+      <circle cx="21" cy="52" r="2.6" fill="#ec4899"/><text x="34" y="56" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Docker Bench</text><circle cx="21" cy="73" r="2.6" fill="#ec4899"/><text x="34" y="77" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Calico</text><circle cx="21" cy="94" r="2.6" fill="#ec4899"/><text x="34" y="98" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Clair</text><circle cx="21" cy="115" r="2.6" fill="#ec4899"/><text x="34" y="119" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">gVisor</text><circle cx="21" cy="136" r="2.6" fill="#ec4899"/><text x="34" y="140" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Grafeas</text><circle cx="21" cy="157" r="2.6" fill="#ec4899"/><text x="34" y="161" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Falco</text><circle cx="21" cy="178" r="2.6" fill="#ec4899"/><text x="34" y="182" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Dagda</text><circle cx="21" cy="199" r="2.6" fill="#ec4899"/><text x="34" y="203" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Cilium</text><circle cx="21" cy="220" r="2.6" fill="#ec4899"/><text x="34" y="224" font-family="sans-serif" font-size="12.5" font-weight="500" fill="#cbd5e1">Dockle</text>
+    </g>
+    </g>
+  </g>
+
+  <g transform="translate(828.0, 1259)">
+    <rect x="-440" y="-38" width="880" height="76" rx="14" fill="#0b0e1a" stroke="url(#brand-grad)" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff" letter-spacing="3px">
+      <tspan fill="#ff0055">RED</tspan><tspan fill="#ffffff">TEAM</tspan><tspan fill="#00f0ff">APT</tspan>
+      <tspan fill="#94a3b8" font-size="11"> • </tspan>
+      <tspan fill="#a1a1aa" font-size="10.5">OFFICIAL OFFENSIVE SECURITY &amp; ADVERSARY SIMULATION ROADMAP</tspan>
+    </text>
+    <g transform="translate(-315, 6)">
+      <rect width="190" height="26" rx="6" fill="#18181b" stroke="#ff0055" stroke-width="1.2"/>
+      <text x="95" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#f43f5e">RedTeamAPT.ir</text>
+
+      <rect x="220" width="190" height="26" rx="6" fill="#18181b" stroke="#00f0ff" stroke-width="1.2"/>
+      <text x="315" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38bdf8">TELEGRAM : @RedTeamAcademy</text>
+
+      <rect x="440" width="190" height="26" rx="6" fill="#18181b" stroke="#a855f7" stroke-width="1.2"/>
+      <text x="535" y="13" text-anchor="middle" dominant-baseline="middle" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#c084fc">GITHUB : RedTeamAPT</text>
+    </g>
+  </g>
+</svg>
